@@ -1,0 +1,1 @@
+{"key": "etleneum", "name": "Add endpionts to contract JSON API", "description": "e.g.\n\nendpoints: {\n  funds: <>,\n  calls: <>,\n  state: <>\n}"}
