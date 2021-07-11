@@ -216,26 +216,6 @@
     "terms": "test",
     "votes": {}
   },
-  "pk5xp1r18z": {
-    "balance": 3900251,
-    "created": 1603469333,
-    "lastexchange": 1610108227,
-    "liquidity": 5,
-    "nexchanges": 3,
-    "resolvers": [
-      "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
-    ],
-    "shares": {
-      "no": {
-        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 39
-      },
-      "yes": {
-        "025b0f616d6468f500ee8db1a9d4bd32a56cb1e0c0393ee9029f1276edfbdca8fc": 1
-      }
-    },
-    "terms": "Will Anton Kumaigorodski get a grant from Square Crypto before March 2021?",
-    "votes": {}
-  },
   "rc2t21nras": {
     "balance": 160000001,
     "created": 1597979919,
