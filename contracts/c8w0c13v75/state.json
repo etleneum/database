@@ -1,1 +1,18 @@
-{"1FuCKYouxwQBgprrNbUBeqSnjcd9pdixoq": {"sat": 64219, "block": 687954, "stake": 0, "fee_msat": 1000000}, "bc1q8frkwe8x4kzsnt9m6la535he0xvycddpvjhl78": {"sat": 76998, "block": 688681, "stake": 0, "fee_msat": 1000}}
+{
+  "1FuCKYouxwQBgprrNbUBeqSnjcd9pdixoq": {
+    "block": 687954,
+    "fee_msat": 1000000,
+    "reserved": {
+      "to": "0262d97ce5a297eef85355023e3b09b874313bae67ce3f7e58bdc9089439011fe0",
+      "upto": 690728
+    },
+    "sat": 64219,
+    "stake": 100000
+  },
+  "bc1q8frkwe8x4kzsnt9m6la535he0xvycddpvjhl78": {
+    "block": 688681,
+    "fee_msat": 1000,
+    "sat": 76998,
+    "stake": 0
+  }
+}
