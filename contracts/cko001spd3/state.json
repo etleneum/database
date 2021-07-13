@@ -168,6 +168,13 @@
     }
   },
   "current_ads": {
-    "_": 0
+    "_": 0,
+    "ck6h9c880000mtz017j2v5hsa": {
+      "end_time": 1626263521,
+      "image_url": "https://lightningbutton.com/ad.png",
+      "link": "https://lightningbutton.com",
+      "msatoshi": 120000,
+      "seconds": 86400
+    }
   }
 }
