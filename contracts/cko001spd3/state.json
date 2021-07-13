@@ -31,6 +31,11 @@
       "msatoshi_per_hour": 41,
       "url": "https://inversion700.wixsite.com/wikiwhite/faucetinfinite"
     },
+    "9s9t4z3te": {
+      "account": "04078e1397c3f95405436c4867067c0c16d84063af6aa808e1410f8185642efe9f47dec8248a9958d36916b06d3691f41df4847ff06c98839b0b70b3e9332a5b1f",
+      "msatoshi_per_hour": 416666,
+      "url": "https://lightningbutton.com"
+    },
     "_": 0,
     "ck6h9c880000mtz017j2v5hsa": {
       "account": "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3",
@@ -163,20 +168,6 @@
     }
   },
   "current_ads": {
-    "_": 0,
-    "ck6mzl7ls001law01c19toe2h": {
-      "end_time": 1626150206,
-      "image_url": "https://pbs.twimg.com/media/E6HLHbZXEAU6abl?format=jpg\u0026name=small",
-      "link": "https://twitter.com/BitcoinMagazine/status/1414636462864224260",
-      "msatoshi": 100000,
-      "seconds": 360
-    },
-    "ckakqpzbs001zn5017svr988d": {
-      "end_time": 1626150216,
-      "image_url": "https://pbs.twimg.com/media/E6HLHbZXEAU6abl?format=jpg\u0026name=small",
-      "link": "https://twitter.com/BitcoinMagazine/status/1414636462864224260",
-      "msatoshi": 100000,
-      "seconds": 360
-    }
+    "_": 0
   }
 }
