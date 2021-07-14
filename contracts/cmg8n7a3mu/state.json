@@ -102,6 +102,8 @@
       "question": "Can we connect etleneum to liquid to create swapbots for L-BTC and assets?"
     },
     "8cda9": {
+      "answer": "Yes.",
+      "answered": 1626265606,
       "asked": 1626265583,
       "funds": {
         "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 100000
