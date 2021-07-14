@@ -1,1 +1,87 @@
-{"c77335": {"black": "e70b66272c7e72b89d9e4736aa738df64271d7d82ba129b3cac576c3f80f4651", "white": "257f5bf324ba745eb0f26f7f20970a055f35314fa6ea3db32e7b6e05d624e84f", "creation": 1596277516, "msatoshi": 200000, "gameid_hash": "adb73bc17aaf22f77690b91e3328a8480271c44f4300b8493a6d484f17a8e85c"}, "c286995": {"black": "07728c8902b54e0047c22a39b0e44deea31c57e05ae804b7b509616934f1e859", "white": "ad81ef30502de4eb8abecc82e482e5ca4185a890d219776780c487cfd4aa6827", "creation": 1596278645, "msatoshi": 200000, "gameid_hash": "e2e5dc58833e0a720f678c77a4f393b833963e42bc43d84dadc50352943b46fa"}, "c369120": {"white": "12c6e76e301ef71d19b875789c4e5e06539b7a7d6aed6c53ff744f717ab3469b", "creation": 1607812795, "msatoshi": 1000000, "gameid_hash": "2843264958d82706a751a31458d42c5cb86d9320d905c2206cefad2d939d9699"}, "c394248": {"white": "ca58653cd2345a8672737f2588fc79ef030a19930d06464734fe4bb1b3a72547", "creation": 1593858581, "msatoshi": 500000, "gameid_hash": "71d5786022191a9e488507e1e15b1c060fd28ad6030c9bb4ccf64e9db92e84bd"}, "c530769": {"black": "fe8b7cb730d701c2b7e85e45e2cb190087215ca648ebd75465d8b130e01bd3fe", "white": "51cd5a2436326a69541b9b529feccff78a4231f7be8a3ee90038a078fd3d7f66", "creation": 1596722414, "msatoshi": 200000, "gameid_hash": "ae789a8e323eefeef44476a757518ac8ae04d07bbed8ef13b0c64ccb4d35c420"}, "c573737": {"black": "3b83aaef29e890bbc469b675ce495a63ce9f1468d40f2022484502606e05c566", "white": "ad5ef32d345fda7ff9595f80facb42bd4f5610c479522846c5f99b80e6fb82be", "creation": 1594294941, "msatoshi": 2000000, "gameid_hash": "05a9a2f73cdfed8ce3ef9bf50674b80df54f2ffbb2d5f33cf9da8a090f45cd0e"}, "c734014": {"black": "331a102254bc32379dacdac3a5c2a6cbeb20609b03e9c174ee24e4797b1bfad2", "white": "72e62f549bcd75c5daa0ca63e0d4a1e67c6a1e1d09aacae3aab3528baba05981", "creation": 1599402132, "msatoshi": 200000, "gameid_hash": "12549045fcc79ee1cc28e58b2935d756e2d98f89dcbe8e7629d1e247dcff6ec5"}, "c812553": {"white": "bccb0ac65954a296fb2398e5c4dae7eff1b95d67b3f9090c81495cba0e277f4e", "creation": 1594292942, "msatoshi": 100000, "gameid_hash": "196f0c16e3dbd241722112dad831bfe20687e52805e648f4dc3d338a1e115776"}, "c827202": {"black": "86a91dea14f1d0443b1c219588b27ca03eeb5dad7dc5932f8f648b5af14d34ce", "white": "a7e7e4fcabba79a7e181bed0c8dec7162db4e4e5722a32ef5f184bfe2817c841", "creation": 1596221502, "msatoshi": 200000, "gameid_hash": "b334255aad7a0808beb46dcb90fa3a44779fc4081471e421eb70ba62b742e2f2"}, "c928240": {"white": "242a9112e278f960c3d89c22e673f4156ad1597f8f2ee0019bf55cbfd2c94770", "creation": 1594228468, "msatoshi": 1000000, "gameid_hash": "44e4aaf3f334a065e71a49b0adc29b942a108abf512ef4c613832dbde4cd00c6"}, "c963033": {"white": "186be08e4995579ebc92cecc7b9d801167fa95c7bad6cd1755f09e866d923eca", "creation": 1596725935, "msatoshi": 100000, "gameid_hash": "6f9aad4cb8568595157fae4426444ff8d23a9ab1bd56d10053a9c66f67365e8d"}, "c994405": {"black": "58e841b418801a744eb012321ed38ba559eaeef9681cc7fd6a122ebe47eb7f05", "white": "ec3233f170c3e2721ef8fb74b9d220477ad9067f1ec42572336a40da388410df", "creation": 1593883704, "msatoshi": 2000000, "gameid_hash": "67d861413714865e5c0248bea21ee5fdcd3682297ce8e3b771d396ff860c5bad"}}
+{
+  "c283647": {
+    "black": "f0817559ae3cdd168074c96ba8aafc6606abdc4e0be1de0f9a68b365b113d53c",
+    "creation": 1626264410,
+    "gameid_hash": "0cd8e6a83b9d20c152db4b39d54fcc4decc00dc94a3d18bdb3eb30ce2c15e1fa",
+    "msatoshi": 100000
+  },
+  "c286995": {
+    "black": "07728c8902b54e0047c22a39b0e44deea31c57e05ae804b7b509616934f1e859",
+    "creation": 1596278645,
+    "gameid_hash": "e2e5dc58833e0a720f678c77a4f393b833963e42bc43d84dadc50352943b46fa",
+    "msatoshi": 200000,
+    "white": "ad81ef30502de4eb8abecc82e482e5ca4185a890d219776780c487cfd4aa6827"
+  },
+  "c369120": {
+    "creation": 1607812795,
+    "gameid_hash": "2843264958d82706a751a31458d42c5cb86d9320d905c2206cefad2d939d9699",
+    "msatoshi": 1000000,
+    "white": "12c6e76e301ef71d19b875789c4e5e06539b7a7d6aed6c53ff744f717ab3469b"
+  },
+  "c394248": {
+    "creation": 1593858581,
+    "gameid_hash": "71d5786022191a9e488507e1e15b1c060fd28ad6030c9bb4ccf64e9db92e84bd",
+    "msatoshi": 500000,
+    "white": "ca58653cd2345a8672737f2588fc79ef030a19930d06464734fe4bb1b3a72547"
+  },
+  "c530769": {
+    "black": "fe8b7cb730d701c2b7e85e45e2cb190087215ca648ebd75465d8b130e01bd3fe",
+    "creation": 1596722414,
+    "gameid_hash": "ae789a8e323eefeef44476a757518ac8ae04d07bbed8ef13b0c64ccb4d35c420",
+    "msatoshi": 200000,
+    "white": "51cd5a2436326a69541b9b529feccff78a4231f7be8a3ee90038a078fd3d7f66"
+  },
+  "c573737": {
+    "black": "3b83aaef29e890bbc469b675ce495a63ce9f1468d40f2022484502606e05c566",
+    "creation": 1594294941,
+    "gameid_hash": "05a9a2f73cdfed8ce3ef9bf50674b80df54f2ffbb2d5f33cf9da8a090f45cd0e",
+    "msatoshi": 2000000,
+    "white": "ad5ef32d345fda7ff9595f80facb42bd4f5610c479522846c5f99b80e6fb82be"
+  },
+  "c734014": {
+    "black": "331a102254bc32379dacdac3a5c2a6cbeb20609b03e9c174ee24e4797b1bfad2",
+    "creation": 1599402132,
+    "gameid_hash": "12549045fcc79ee1cc28e58b2935d756e2d98f89dcbe8e7629d1e247dcff6ec5",
+    "msatoshi": 200000,
+    "white": "72e62f549bcd75c5daa0ca63e0d4a1e67c6a1e1d09aacae3aab3528baba05981"
+  },
+  "c77335": {
+    "black": "e70b66272c7e72b89d9e4736aa738df64271d7d82ba129b3cac576c3f80f4651",
+    "creation": 1596277516,
+    "gameid_hash": "adb73bc17aaf22f77690b91e3328a8480271c44f4300b8493a6d484f17a8e85c",
+    "msatoshi": 200000,
+    "white": "257f5bf324ba745eb0f26f7f20970a055f35314fa6ea3db32e7b6e05d624e84f"
+  },
+  "c812553": {
+    "creation": 1594292942,
+    "gameid_hash": "196f0c16e3dbd241722112dad831bfe20687e52805e648f4dc3d338a1e115776",
+    "msatoshi": 100000,
+    "white": "bccb0ac65954a296fb2398e5c4dae7eff1b95d67b3f9090c81495cba0e277f4e"
+  },
+  "c827202": {
+    "black": "86a91dea14f1d0443b1c219588b27ca03eeb5dad7dc5932f8f648b5af14d34ce",
+    "creation": 1596221502,
+    "gameid_hash": "b334255aad7a0808beb46dcb90fa3a44779fc4081471e421eb70ba62b742e2f2",
+    "msatoshi": 200000,
+    "white": "a7e7e4fcabba79a7e181bed0c8dec7162db4e4e5722a32ef5f184bfe2817c841"
+  },
+  "c928240": {
+    "creation": 1594228468,
+    "gameid_hash": "44e4aaf3f334a065e71a49b0adc29b942a108abf512ef4c613832dbde4cd00c6",
+    "msatoshi": 1000000,
+    "white": "242a9112e278f960c3d89c22e673f4156ad1597f8f2ee0019bf55cbfd2c94770"
+  },
+  "c963033": {
+    "creation": 1596725935,
+    "gameid_hash": "6f9aad4cb8568595157fae4426444ff8d23a9ab1bd56d10053a9c66f67365e8d",
+    "msatoshi": 100000,
+    "white": "186be08e4995579ebc92cecc7b9d801167fa95c7bad6cd1755f09e866d923eca"
+  },
+  "c994405": {
+    "black": "58e841b418801a744eb012321ed38ba559eaeef9681cc7fd6a122ebe47eb7f05",
+    "creation": 1593883704,
+    "gameid_hash": "67d861413714865e5c0248bea21ee5fdcd3682297ce8e3b771d396ff860c5bad",
+    "msatoshi": 2000000,
+    "white": "ec3233f170c3e2721ef8fb74b9d220477ad9067f1ec42572336a40da388410df"
+  }
+}
