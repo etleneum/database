@@ -148,17 +148,17 @@
     "votes": {}
   },
   "bc91513o34": {
-    "balance": 4299070,
+    "balance": 4091951,
     "created": 1596484893,
-    "lastexchange": 1604406948,
+    "lastexchange": 1626259561,
     "liquidity": 5,
-    "nexchanges": 5,
+    "nexchanges": 6,
     "resolvers": [
       "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
     ],
     "shares": {
       "no": {
-        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 39
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 32
       },
       "yes": {
         "0307cf572422209eb17b342085d31f3a6fce657cbb24340dc60ccf82b743613ca0": 39,
