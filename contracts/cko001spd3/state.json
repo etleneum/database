@@ -169,12 +169,12 @@
   },
   "current_ads": {
     "_": 0,
-    "ck6h9c880000mtz017j2v5hsa": {
-      "end_time": 1626263521,
-      "image_url": "https://lightningbutton.com/ad.png",
-      "link": "https://lightningbutton.com",
-      "msatoshi": 120000,
-      "seconds": 86400
+    "ck6mzl7ls001law01c19toe2h": {
+      "end_time": 1627053007,
+      "image_url": "https://paddle-images.s3.amazonaws.com/1627049963568-binance%20commander.png",
+      "link": "https://paddle.bid/auctions/8023b7c7-6b5b-4747-8245-9dd8e23d8824",
+      "msatoshi": 100000,
+      "seconds": 360
     }
   }
 }
