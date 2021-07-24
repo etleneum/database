@@ -219,9 +219,9 @@
   "rc2t21nras": {
     "balance": 160000001,
     "created": 1597979919,
-    "lastexchange": 1624115476,
+    "lastexchange": 1627145009,
     "liquidity": 7,
-    "nexchanges": 57,
+    "nexchanges": 58,
     "resolvers": [
       "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
     ],
@@ -235,7 +235,7 @@
         "02b2e020ac33febf613a72d6c485e0319fad4d19534c1ee885fd1c5ac100be9e3e": 55,
         "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 252,
         "02e361b653d884016ea0d66f9c05b5980d8a97337cb8c7b34e4620844d017a7b2f": 15,
-        "030cb787aec7a0bc7f01604b8466643d4700273d571b99f45fbc0f4b3e39c25f7b": 183
+        "030cb787aec7a0bc7f01604b8466643d4700273d571b99f45fbc0f4b3e39c25f7b": 212
       },
       "yes": {
         "0238b4e45990b0e4af4f005009d2bfec2f293a3bfca68156fa3c3b2a8934fa19ec": 50,
