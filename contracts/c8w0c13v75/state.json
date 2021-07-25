@@ -8,7 +8,11 @@
   "bc1qf53zm764r8k98h09qlj74z3gjs9rsjewjkpzmz": {
     "block": 692469,
     "fee_msat": 3000000,
+    "reserved": {
+      "to": "04f944f399a786616879c8ff5473efbc21e16eeabab6577b794f3ba701dbbf3881f1062861580920cc472de1f8971cdf35f4409e9ae2d95b6d519797a5666f3217",
+      "upto": 692644
+    },
     "sat": 1800002,
-    "stake": 0
+    "stake": 100000
   }
 }
