@@ -12,7 +12,7 @@ function createmarket ()
     error("no resolver!")
   end
   for _, rsv in ipairs(resolvers) do
-    if rsv:sub(0, 1) ~= "a" and rsv:sub(0, 1) ~= "c" then
+    if rsv:sub(0, 1) ~= "0" and rsv:sub(0, 1) ~= "c" then
       error("invalid resolver!")
     end
   end
