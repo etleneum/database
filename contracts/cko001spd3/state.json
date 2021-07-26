@@ -169,12 +169,12 @@
   },
   "current_ads": {
     "_": 0,
-    "ckakq9ltk001wn5016th132nz": {
-      "end_time": 1627283722,
-      "image_url": "https://s3-ap-northeast-1.amazonaws.com/spotlight-s3-001/article/3wg9bqxt4_20210623_131446_1624421686432Logo-01.png",
-      "link": "https://s3-ap-northeast-1.amazonaws.com/spotlight-s3-001/article/20210724_154840_1627109321223diamond-hands-rev.png",
+    "ck6mzl7ls001law01c19toe2h": {
+      "end_time": 1627288711,
+      "link": "http://135.125.129.138:3030/",
       "msatoshi": 100000,
-      "seconds": 360
+      "seconds": 360,
+      "text": "カスタマサポート用サーバーの維持費の寄付お願いします"
     }
   }
 }
