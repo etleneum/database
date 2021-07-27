@@ -114,6 +114,21 @@
     "terms": "Will Biden die before the end of his mandate?",
     "votes": {}
   },
+  "4g8y4wo8o": {
+    "balance": 207945,
+    "created": 1627367002,
+    "liquidity": 3,
+    "nexchanges": 0,
+    "resolvers": [
+      "041bd7bb3afce744e8487e0ab45e8cc0a0c1e08dc4ec23b30f0c3afc0eb8bd7f1e1c08ab521ddd8b2f7d39807dbd080306fbe4b2c948191a4fd171ceecc4e28563"
+    ],
+    "shares": {
+      "no": {},
+      "yes": {}
+    },
+    "terms": "tst",
+    "votes": {}
+  },
   "602rv4573i": {
     "balance": 3018597,
     "created": 1610746047,
