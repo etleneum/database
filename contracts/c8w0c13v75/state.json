@@ -3,10 +3,13 @@
     "block": 693135,
     "fee_msat": 2000,
     "reserved": {
-      "to": "036f6d7b3d3119c75a8a5a3372e9486dd8026eb040e1431094e427ba4a9a315680",
-      "upto": 693156
+      "to": "036f6d7b3d3119c75a8a5a3372e9486dd8026eb040e1431094e427ba4a9a315680"
     },
     "sat": 76998,
-    "stake": 100000
+    "stake": 100000,
+    "waiting": {
+      "last_block_checked": 693156,
+      "txid": "ca3d490c1270d3abd33b240b0cb3ea89522b047b0eca7c2a72c54196597c4692"
+    }
   }
 }
