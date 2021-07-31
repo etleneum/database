@@ -231,6 +231,21 @@
     "terms": "test",
     "votes": {}
   },
+  "ns14b4dlgz": {
+    "balance": 207945,
+    "created": 1627762735,
+    "liquidity": 3,
+    "nexchanges": 0,
+    "resolvers": [
+      "041bd7bb3afce744e8487e0ab45e8cc0a0c1e08dc4ec23b30f0c3afc0eb8bd7f1e1c08ab521ddd8b2f7d39807dbd080306fbe4b2c948191a4fd171ceecc4e28563"
+    ],
+    "shares": {
+      "no": {},
+      "yes": {}
+    },
+    "terms": "«Зайдут ли россияне в Афганистан для реванша за войну 80-х»  что зайдут в течении 12 ближайших месяцев",
+    "votes": {}
+  },
   "rc2t21nras": {
     "balance": 160000001,
     "created": 1597979919,
