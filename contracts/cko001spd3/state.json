@@ -170,11 +170,11 @@
   "current_ads": {
     "_": 0,
     "ck6mzl7ls001law01c19toe2h": {
-      "end_time": 1627516953,
-      "link": "http://135.125.129.138:3030/",
-      "msatoshi": 100000,
-      "seconds": 360,
-      "text": "カスタマサポート用Umbrelサーバーへの寄付お願いします"
+      "end_time": 1627807491,
+      "image_url": "https://blocksat-reader.s3.amazonaws.com/downloads/20210801011158",
+      "link": "https://blocksat-reader.herokuapp.com/",
+      "msatoshi": 200000,
+      "seconds": 720
     }
   }
 }
