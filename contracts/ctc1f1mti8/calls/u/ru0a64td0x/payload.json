@@ -1,0 +1,5 @@
+{
+  "key": "blixt",
+  "name": "Support for LUD-14",
+  "description": "See https://github.com/fiatjaf/lnurl-rfc/blob/luds/14.md"
+}
