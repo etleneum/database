@@ -168,6 +168,13 @@
     }
   },
   "current_ads": {
-    "_": 0
+    "_": 0,
+    "ck6mzl7ls001law01c19toe2h": {
+      "end_time": 1628783350,
+      "image_url": "https://blocksat-reader.s3.amazonaws.com/downloads/20210811224631",
+      "link": "https://blocksat-reader.herokuapp.com/",
+      "msatoshi": 100000,
+      "seconds": 360
+    }
   }
 }
