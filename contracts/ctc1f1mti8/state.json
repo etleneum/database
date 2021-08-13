@@ -43,7 +43,8 @@
       },
       {
         "description": "See https://github.com/fiatjaf/lnurl-rfc/blob/luds/16.md",
-        "msatoshi": 5000000,
+        "last_contribution": 1628861352,
+        "msatoshi": 7521000,
         "name": "Support for LUD-16",
         "opened": 1628289131,
         "status": "open"
