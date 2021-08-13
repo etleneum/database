@@ -55,6 +55,13 @@
         "name": "inconspicuous app icon",
         "opened": 1628530292,
         "status": "open"
+      },
+      {
+        "description": "Receive at user@blixt.com? Wallet automatically empties balance as it goes online using LUD-14.\n\nCan't be used as a custodial wallet, the only way to get the funds is by using balanceCheck so they go to your wallet.\n\nBetter yet if it's open for other wallets to use it too.\n\nOptionally it could have a clause that says \"your funds will be seized if you don't empty them in a month\".",
+        "msatoshi": 5000000,
+        "name": "Semi-custodial server for Lightning Addresses",
+        "opened": 1628860429,
+        "status": "open"
       }
     ],
     "url": "https://blixtwallet.github.io"
