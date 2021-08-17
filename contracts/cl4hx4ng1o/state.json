@@ -15,5 +15,11 @@
       "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3",
       "0222ca15f08175b175afa14a0e7ef985fa10f88c2f7b32ee18032770170740f9b5"
     ]
+  },
+  "e819b4szz": {
+    "balance": 10000,
+    "fee": 10,
+    "num_of_players": 2,
+    "players": {}
   }
 }
