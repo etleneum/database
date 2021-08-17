@@ -64,6 +64,13 @@
         "name": "Semi-custodial server for Lightning Addresses",
         "opened": 1628860429,
         "status": "open"
+      },
+      {
+        "description": "See https://github.com/fiatjaf/lnurl-rfc/blob/luds/17.md",
+        "msatoshi": 1000000,
+        "name": "Support for LUD-17",
+        "opened": 1629220662,
+        "status": "open"
       }
     ],
     "url": "https://blixtwallet.github.io"
