@@ -97,11 +97,11 @@
     "votes": {}
   },
   "404w14p7gl": {
-    "balance": 407945,
+    "balance": 1702015,
     "created": 1620069480,
-    "lastexchange": 1620069913,
+    "lastexchange": 1629486474,
     "liquidity": 3,
-    "nexchanges": 2,
+    "nexchanges": 3,
     "resolvers": [
       "024d1c3dd93d9e33ec4f92e321aea56df04cf81ec8ab5a432238d33a11e55d44d4"
     ],
@@ -110,7 +110,8 @@
         "024d1c3dd93d9e33ec4f92e321aea56df04cf81ec8ab5a432238d33a11e55d44d4": 2
       },
       "yes": {
-        "024d1c3dd93d9e33ec4f92e321aea56df04cf81ec8ab5a432238d33a11e55d44d4": 2
+        "024d1c3dd93d9e33ec4f92e321aea56df04cf81ec8ab5a432238d33a11e55d44d4": 2,
+        "02c0ec54bb93a2df0408d6b8d826b717db7beaf2454bcdd19ddaaaf86c4e84bff5": 15
       }
     },
     "terms": "Will Biden die before the end of his mandate?",
