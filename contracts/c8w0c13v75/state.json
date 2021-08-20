@@ -10,5 +10,11 @@
     "fee_msat": 26000,
     "sat": 53017,
     "stake": 0
+  },
+  "1GLENCoWoUbRaWc3XxmUdFrnVyCN86JRfj": {
+    "block": 696643,
+    "fee_msat": 20000,
+    "sat": 31845,
+    "stake": 0
   }
 }
