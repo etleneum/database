@@ -20,11 +20,11 @@
     "votes": {}
   },
   "081s1447y0": {
-    "balance": 33503187,
+    "balance": 36124423,
     "created": 1619584019,
-    "lastexchange": 1628912507,
+    "lastexchange": 1629439594,
     "liquidity": 10,
-    "nexchanges": 10,
+    "nexchanges": 11,
     "resolvers": [
       "033f62fd6eb4185ebb82032f26c69e540d29dfd66acfed3efb8bfe5d0689344f71"
     ],
@@ -34,6 +34,7 @@
         "0222ca15f08175b175afa14a0e7ef985fa10f88c2f7b32ee18032770170740f9b5": 100,
         "02767d1a3a7710df53bc85b4a6f5a7e46ddfec35c974052857f6d601899657d2f9": 29,
         "02ac82ad7cc626e8bad72deb0dcedcf9b3b11683febf5999b54d66c5d1afc31578": 25,
+        "02c0ec54bb93a2df0408d6b8d826b717db7beaf2454bcdd19ddaaaf86c4e84bff5": 30,
         "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 100
       },
       "yes": {
