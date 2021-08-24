@@ -66,12 +66,13 @@
         "status": "open"
       },
       {
+        "closed": 1629807105,
         "description": "See https://github.com/fiatjaf/lnurl-rfc/blob/luds/17.md",
         "last_contribution": 1629725621,
         "msatoshi": 3500000,
         "name": "Support for LUD-17",
         "opened": 1629220662,
-        "status": "open"
+        "status": "finished"
       }
     ],
     "url": "https://blixtwallet.github.io"
