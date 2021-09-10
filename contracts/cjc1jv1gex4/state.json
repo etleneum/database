@@ -98,17 +98,18 @@
     "votes": {}
   },
   "404w14p7gl": {
-    "balance": 1702015,
+    "balance": 1793979,
     "created": 1620069480,
-    "lastexchange": 1629486474,
+    "lastexchange": 1631242064,
     "liquidity": 3,
-    "nexchanges": 3,
+    "nexchanges": 4,
     "resolvers": [
       "024d1c3dd93d9e33ec4f92e321aea56df04cf81ec8ab5a432238d33a11e55d44d4"
     ],
     "shares": {
       "no": {
-        "024d1c3dd93d9e33ec4f92e321aea56df04cf81ec8ab5a432238d33a11e55d44d4": 2
+        "024d1c3dd93d9e33ec4f92e321aea56df04cf81ec8ab5a432238d33a11e55d44d4": 2,
+        "036f6d7b3d3119c75a8a5a3372e9486dd8026eb040e1431094e427ba4a9a315680": 12
       },
       "yes": {
         "024d1c3dd93d9e33ec4f92e321aea56df04cf81ec8ab5a432238d33a11e55d44d4": 2,
