@@ -235,6 +235,21 @@
     "terms": "test",
     "votes": {}
   },
+  "nk1m910ov": {
+    "balance": 346574,
+    "created": 1631240192,
+    "liquidity": 5,
+    "nexchanges": 0,
+    "resolvers": [
+      "036f6d7b3d3119c75a8a5a3372e9486dd8026eb040e1431094e427ba4a9a315680"
+    ],
+    "shares": {
+      "no": {},
+      "yes": {}
+    },
+    "terms": "Is Jack Mallers the most important person in Bitcoin after Satoshi",
+    "votes": {}
+  },
   "ns14b4dlgz": {
     "balance": 19900000,
     "created": 1627762735,
