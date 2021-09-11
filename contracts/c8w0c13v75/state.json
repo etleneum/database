@@ -22,10 +22,10 @@
     "fee_msat": 500000,
     "reserved": {
       "to": "036f6d7b3d3119c75a8a5a3372e9486dd8026eb040e1431094e427ba4a9a315680",
-      "upto": 700010
+      "upto": 700025
     },
     "sat": 500000,
-    "stake": 100000
+    "stake": 200000
   },
   "bc1qwhlxcnvnnstz26zxkzcx42e4es0h9w9enrxrwn": {
     "block": 697406,
