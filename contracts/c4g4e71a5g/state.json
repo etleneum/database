@@ -1,1 +1,472 @@
-{"open": {"_": 0, "6w1x4mrke": {"desc": "[Node info] https://1ml.com/node/035b1ff29e8db1ba8f2a4f4f95db239b54069cb949b8cde329418e2a83da4f1b30", "head": "Open a public channel to my node with 2,000,000 sats", "bounty": {"02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4": 3000000}, "needed": 1, "voters": ["02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4"], "created_at": 1618107305}, "vs8b460ub": {"desc": "Take a look at https://github.com/fiatjaf/nostr, join the group at https://t.me/nostr_protocol.\n\nWrite a special kind of Nostr relay that also implements (part of?) the ActivityPub/LitePub and protocol creates Mastodon/ActivityPub accounts on-the-fly for every Nostr pubkey that publishes to it, such that people on a Mastodon server can follow these accounts without having to know what Nostr is.\n\nThe code must be open-source.", "head": "Write a bridge between Mastodon and Nostr", "bounty": {"02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 50000000, "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 10000000}, "needed": 1, "voters": ["02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"], "created_at": 1614343915}, "wo8d4sf6l": {"desc": "Create a contract that interacts in some way with mk.js (can be on attack or on game end) and pays satoshis from one player to another.  See: https://twitter.com/pollofeed/status/1376536816082378754", "head": "Create a contract to interact with mk.js", "bounty": {"038d96fd8a930007cfd795175591ef04679da2e3b109104247d52d6fd310232a6e": 9999000}, "needed": 1, "voters": ["038d96fd8a930007cfd795175591ef04679da2e3b109104247d52d6fd310232a6e"], "created_at": 1617028071}, "1k2774ra2v": {"desc": "Say hi to the world!", "head": "Say hi to the world!", "bounty": {"04768bfb4dc601bc44d93be0f1777127d58eef3247a37d25cf3c9b6c585f4de0afe24cf0afe4af090d841ec5fed3d67a8a4562485f9377c250550221df424338fd": 1000, "046042ee8805d94aefc487b5c6ca5c862bf6b7bd9e38793adc2bd561791cda9b14bb506d6038620175b75dd420bc7666e808b8290b47c7e010f5d389f93ecc8a86": 1000}, "needed": 1, "voters": ["04768bfb4dc601bc44d93be0f1777127d58eef3247a37d25cf3c9b6c585f4de0afe24cf0afe4af090d841ec5fed3d67a8a4562485f9377c250550221df424338fd"], "created_at": 1608187691}, "9c2cl4a92s": {"head": "Sing to me!", "bounty": {"046042ee8805d94aefc487b5c6ca5c862bf6b7bd9e38793adc2bd561791cda9b14bb506d6038620175b75dd420bc7666e808b8290b47c7e010f5d389f93ecc8a86": 1000}, "needed": 1, "voters": ["046042ee8805d94aefc487b5c6ca5c862bf6b7bd9e38793adc2bd561791cda9b14bb506d6038620175b75dd420bc7666e808b8290b47c7e010f5d389f93ecc8a86"], "created_at": 1608875958}, "co49r480ib": {"desc": "Timestamp when @matt_odell\ncalls for a CoinJoin + Lightning wallet \n\nhttps://twitter.com/gladstein/status/1368014731890421760", "head": "Timestamp for TFTC podcast episode", "bounty": {"025b008818c11371ed42b31fd6069523226f88e71628378db88a967881b379a1c6": 5000000}, "needed": 1, "voters": ["025b008818c11371ed42b31fd6069523226f88e71628378db88a967881b379a1c6"], "created_at": 1615035723}, "nsah51pjxq": {"desc": "A Telegram bot that uses the inline mode to allow people to type \"@satoshiquotebot sorry\" and return search results for all Satoshi oneliners (in the example above it should return the quote that ends with \"If you don't believe me or don't get it, I don't have time to try to convince you, sorry.\").\n\nJust that, a simple bot that can be used to easily spam group chats with wisdom from the genius.", "head": "A Telegram bot for Satoshi quotes", "bounty": {"02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 5000000, "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 1016000}, "needed": 1, "voters": ["02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"], "created_at": 1596681415, "completions": {"031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": {"time": 1610626136, "content": "testing completion #2"}}}, "xc33v4smoy": {"desc": "test", "head": "Testing open offer", "bounty": {"031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 10000}, "needed": 1, "voters": ["031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f"], "created_at": 1610970996, "completions": {"02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": {"time": 1611518100, "content": "Testing submit completion."}}}, "ck6h7u0u0000ktz019o6y5kv6": {"desc": "There are too many BIPs, some are implemented, some are old discarded ideas, some are promising proposals for the future, each has its own history and arguments and counter-arguments.\n\nIt would be nice to have a summary of each along with its story, timeline, people involved and so on.\n\nThis effort doesn't have to include all BIPs, but must be good and original work.", "head": "A guide for the Bitcoin BIPs", "bounty": {"02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 10000000}, "needed": 1, "voters": ["02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"], "created_at": 1581385059}, "ck6wdx9uw000q8201df8nmm37": {"desc": "I'm imagining something like a table with a description of each transaction, like \"simple payment\", \"JoinMarket Coinjoin\", \"Lightning HTLC\", \"Blockstream Green deposit\", what kind of wallet/app/protocol produces it, the scripts and other technicalities used, and their average size in bytes and vbytes.", "head": "A comparison of most known kinds of Bitcoin transactions", "bounty": {"02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 10000000}, "needed": 1, "voters": ["02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"], "created_at": 1582302281, "completions": {"031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": {"time": 1610711064, "content": "money money money"}}}, "ck6wdycfs000s8201jn99jxmk": {"head": "Get lnurl-withdraw support merged in Spark Wallet", "bounty": {"02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 20000000}, "needed": 1, "voters": ["02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"], "created_at": 1582302331}, "ck6wdyu6o000u8201f8w98ui3": {"head": "Get lnurl-pay support merged in Spark Wallet", "bounty": {"02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 30000000, "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 10000000}, "needed": 1, "voters": ["02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"], "created_at": 1582302354}, "ck6we3j60000w8201ugjyc1wy": {"desc": "The @etleneum account never said anything, never followed anyone, and then it was suddenly blocked.\n\nIt doesn't have an associated phone number because Twitter didn't force me to use one when creating it, but then it goes there and blocks every account that doesn't have a phone number it seems.\n\nNow I can login to the account, but can't follow anyone or edit details or add a phone number.\n\nI've messaged support multiple times, but never got a response.", "head": "Get the @etleneum account unblocked on Twitter", "bounty": {"02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 20000000}, "needed": 1, "voters": ["02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"], "created_at": 1582302573}}, "closed": {"_": 0, "7k304meup": {"desc": "https://bips.xyz/ is a \"mirror\" of the official BIPs repository.\nCreate a beautiful design for this website.\nCSS currently used is https://newcss.net/ (remove it or customize it)\nbips.xyz code : https://github.com/dolu89/bitcoin-bips", "head": "Create a beautiful design for https://bips.xyz", "bounty": {"02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 12098000, "0211068d95d92ec750511bea6709b70258f12fcccd2385d59bd51b9871c5338195": 10000000}, "needed": 1, "voters": ["0211068d95d92ec750511bea6709b70258f12fcccd2385d59bd51b9871c5338195"], "awarded_at": 1625051456, "created_at": 1617722012, "completions": {"0211068d95d92ec750511bea6709b70258f12fcccd2385d59bd51b9871c5338195": {"time": 1625051139, "votes": {"0211068d95d92ec750511bea6709b70258f12fcccd2385d59bd51b9871c5338195": true}, "content": "Did it myself\nhttps://github.com/Dolu89/bitcoin-bips deployed at https://bips.xyz"}}}, "8os41qr93": {"desc": "Say hi to the world!", "head": "Say hi to the world!", "bounty": {"anon": 9000000, "02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423": 1000000}, "needed": 1, "voters": ["02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423"], "awarded_at": 1598130631, "created_at": 1598129097, "completions": {"02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423": {"time": 1598130550, "votes": {"02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423": true}, "content": "Done"}}}, "dcil4qk1d": {"desc": "make a #BTC resolution", "head": "Happy NewYear 2021!", "bounty": {"04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": 14000000}, "needed": 1, "voters": ["04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6"], "awarded_at": 1609645369, "created_at": 1609644954, "completions": {"04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": {"time": 1609645056, "votes": {"04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": true}, "content": "build own bitcoin node"}}}, "l48x174es": {"desc": "Now you're walking giveaway!", "head": "Tattoo your key on forehead!", "bounty": {"anon": 500000, "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": 1000000}, "needed": 1, "voters": ["04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6"], "awarded_at": 1598751845, "created_at": 1598747953, "completions": {"04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": {"time": 1598751500, "votes": {"04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": true}, "content": "Now my all BTC gone by the guy I first met."}}}, "mgb04e3p8": {"desc": "Open a channel to Spotlight with 2000000 sats capacity\n\n[Node Info]\nhttps://1ml.com/node/02aac548b877279c30f3abbb7301de93096e3b87144fc484dc3409bb0d6bd566b1\n", "head": "Open a channel to Spotlight with 2000000 sats capacity", "bounty": {"02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4": 3000000}, "needed": 1, "voters": ["02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4"], "awarded_at": 1617881497, "created_at": 1617763237, "completions": {"030d59f256c2d73391e46fa8e3834a139a00758907cf8ee0576a6eb2e558ef2892": {"time": 1617874311, "votes": {"02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4": true}, "content": "Channel is 8a65c9f3b4d2f897676154d9e8816bc370e41ada1d1672d64ce68149987cd7e8"}}}, "qg5c4zahf": {"desc": "enjoy!", "head": "eat tacos", "bounty": {"0374ecd783db94c5c33d8a785966a89e2bf969f85dadffe4ca96c2fab872d2c191": 25500000}, "needed": 1, "voters": ["0374ecd783db94c5c33d8a785966a89e2bf969f85dadffe4ca96c2fab872d2c191"], "awarded_at": 1606702739, "created_at": 1606702183, "completions": {"0374ecd783db94c5c33d8a785966a89e2bf969f85dadffe4ca96c2fab872d2c191": {"time": 1606702388, "votes": {"0374ecd783db94c5c33d8a785966a89e2bf969f85dadffe4ca96c2fab872d2c191": true}, "content": "did it"}}}, "bk1kv4iqau": {"desc": "New task for testing porpuses", "head": "test task", "bounty": {"031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 10000}, "needed": 1, "voters": ["031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f"], "awarded_at": 1610710004, "created_at": 1610647292, "completions": {"031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": {"time": 1610648509, "votes": {"031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": true}, "content": "testing 2"}}}, "fs23p1uc51": {"desc": "I don't know what to do.", "head": "Tell me the future", "bounty": {"04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": 7800000}, "needed": 1, "voters": ["04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6"], "awarded_at": 1602975825, "created_at": 1602975475, "completions": {"04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": {"time": 1602975755, "votes": {"04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": true}, "content": "follow your heart"}}}, "n42av4qyd1": {"desc": "testing this mofo... \nbtw, fiatjaf, you owe me like 50k just accounting for these tests!!", "head": "test task", "bounty": {"031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 1000000}, "needed": 1, "voters": ["031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f"], "awarded_at": 1610711329, "created_at": 1610711158, "completions": {"031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": {"time": 1610711305, "votes": {"031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": true}, "content": "award it to me..."}}}, "ps1741w9uo": {"head": "Sing to me!", "bounty": {"anon": 19500000, "02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423": 1000000}, "needed": 1, "voters": ["02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423"], "awarded_at": 1598131386, "created_at": 1598131144, "completions": {"02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423": {"time": 1598131323, "votes": {"02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423": true}, "content": "Done beautifully."}}}, "ps1pv4xlo3": {"bounty": {"031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 5000}, "needed": 1, "voters": ["031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f"], "awarded_at": 1610710429, "created_at": 1610648722, "completions": {"031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": {"time": 1610710394, "votes": {"031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": true}, "content": "www"}}}, "ck6webkio00108201t5afqqa3": {"desc": "Paul Sztorc has written multiple enormous articles about Drivechain, but it's all too arcane for the average user, thus Drivechain remains unknown to anyone.\n\nThere's a video I don't remember where anymore, but it has Paul talking to the camera, explaining the mechanism behind the hashrate-escrow-based 2-way peg step-by-step with a PowerPoint presentation. That video is great, but no one ever finds it, and before getting to the explanation people must watch dozens of minutes of Paul trashing his critics that don't understand Drivechain at all and assume never having read any of the Drivechain explanations.\n\nThe fact that not even these high-profile critics have read anything or understood the mechanism behind Drivechain 2-way peg is evidence of the necessity of a simpler write-up explanaing it. Clear, small, direct to the point.", "head": "Create a Drivechain explanation that more people can understand", "bounty": {"02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 22000000}, "needed": 1, "voters": ["02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"], "awarded_at": 1611518280, "created_at": 1582302948, "completions": {"02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": {"time": 1611518254, "votes": {"02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": true}, "content": "https://fiatjaf.alhur.es/drivechain.html"}}}, "ckc6i79i00001qy01ddnd7s1q": {"desc": "Write an article in Japanese about Blockstream satellite things like how it works, what is the legal requirement to play around with it. Post it at spotlight.soy", "head": "Write an article in Japanese about Blockstream satellite", "bounty": {"02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4": 111111000, "02ab55b9ac7f8f88949be6ccdf3cf156aa4f328f85540b4ed43b386ea6233e9aca": 1000000}, "needed": 1, "voters": ["02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4"], "awarded_at": 1621248795, "created_at": 1593798039, "completions": {"021478b946e9f18e0e518bb5fec412532b749f44f4f6f5b63187afcf9a65f993a9": {"time": 1621246138, "votes": {"02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4": true}, "content": "https://spotlight.soy/detail?article_id=590td8ctp"}}}}}
+{
+  "closed": {
+    "7k304meup": {
+      "awarded_at": 1625051456,
+      "bounty": {
+        "0211068d95d92ec750511bea6709b70258f12fcccd2385d59bd51b9871c5338195": 10000000,
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 12098000
+      },
+      "completions": {
+        "0211068d95d92ec750511bea6709b70258f12fcccd2385d59bd51b9871c5338195": {
+          "content": "Did it myself\nhttps://github.com/Dolu89/bitcoin-bips deployed at https://bips.xyz",
+          "time": 1625051139,
+          "votes": {
+            "0211068d95d92ec750511bea6709b70258f12fcccd2385d59bd51b9871c5338195": true
+          }
+        }
+      },
+      "created_at": 1617722012,
+      "desc": "https://bips.xyz/ is a \"mirror\" of the official BIPs repository.\nCreate a beautiful design for this website.\nCSS currently used is https://newcss.net/ (remove it or customize it)\nbips.xyz code : https://github.com/dolu89/bitcoin-bips",
+      "head": "Create a beautiful design for https://bips.xyz",
+      "needed": 1,
+      "voters": [
+        "0211068d95d92ec750511bea6709b70258f12fcccd2385d59bd51b9871c5338195"
+      ]
+    },
+    "8os41qr93": {
+      "awarded_at": 1598130631,
+      "bounty": {
+        "02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423": 1000000,
+        "anon": 9000000
+      },
+      "completions": {
+        "02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423": {
+          "content": "Done",
+          "time": 1598130550,
+          "votes": {
+            "02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423": true
+          }
+        }
+      },
+      "created_at": 1598129097,
+      "desc": "Say hi to the world!",
+      "head": "Say hi to the world!",
+      "needed": 1,
+      "voters": [
+        "02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423"
+      ]
+    },
+    "_": 0,
+    "bk1kv4iqau": {
+      "awarded_at": 1610710004,
+      "bounty": {
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 10000
+      },
+      "completions": {
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": {
+          "content": "testing 2",
+          "time": 1610648509,
+          "votes": {
+            "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": true
+          }
+        }
+      },
+      "created_at": 1610647292,
+      "desc": "New task for testing porpuses",
+      "head": "test task",
+      "needed": 1,
+      "voters": [
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f"
+      ]
+    },
+    "ck6webkio00108201t5afqqa3": {
+      "awarded_at": 1611518280,
+      "bounty": {
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 22000000
+      },
+      "completions": {
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": {
+          "content": "https://fiatjaf.alhur.es/drivechain.html",
+          "time": 1611518254,
+          "votes": {
+            "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": true
+          }
+        }
+      },
+      "created_at": 1582302948,
+      "desc": "Paul Sztorc has written multiple enormous articles about Drivechain, but it's all too arcane for the average user, thus Drivechain remains unknown to anyone.\n\nThere's a video I don't remember where anymore, but it has Paul talking to the camera, explaining the mechanism behind the hashrate-escrow-based 2-way peg step-by-step with a PowerPoint presentation. That video is great, but no one ever finds it, and before getting to the explanation people must watch dozens of minutes of Paul trashing his critics that don't understand Drivechain at all and assume never having read any of the Drivechain explanations.\n\nThe fact that not even these high-profile critics have read anything or understood the mechanism behind Drivechain 2-way peg is evidence of the necessity of a simpler write-up explanaing it. Clear, small, direct to the point.",
+      "head": "Create a Drivechain explanation that more people can understand",
+      "needed": 1,
+      "voters": [
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
+      ]
+    },
+    "ckc6i79i00001qy01ddnd7s1q": {
+      "awarded_at": 1621248795,
+      "bounty": {
+        "02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4": 111111000,
+        "02ab55b9ac7f8f88949be6ccdf3cf156aa4f328f85540b4ed43b386ea6233e9aca": 1000000
+      },
+      "completions": {
+        "021478b946e9f18e0e518bb5fec412532b749f44f4f6f5b63187afcf9a65f993a9": {
+          "content": "https://spotlight.soy/detail?article_id=590td8ctp",
+          "time": 1621246138,
+          "votes": {
+            "02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4": true
+          }
+        }
+      },
+      "created_at": 1593798039,
+      "desc": "Write an article in Japanese about Blockstream satellite things like how it works, what is the legal requirement to play around with it. Post it at spotlight.soy",
+      "head": "Write an article in Japanese about Blockstream satellite",
+      "needed": 1,
+      "voters": [
+        "02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4"
+      ]
+    },
+    "dcil4qk1d": {
+      "awarded_at": 1609645369,
+      "bounty": {
+        "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": 14000000
+      },
+      "completions": {
+        "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": {
+          "content": "build own bitcoin node",
+          "time": 1609645056,
+          "votes": {
+            "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": true
+          }
+        }
+      },
+      "created_at": 1609644954,
+      "desc": "make a #BTC resolution",
+      "head": "Happy NewYear 2021!",
+      "needed": 1,
+      "voters": [
+        "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6"
+      ]
+    },
+    "fs23p1uc51": {
+      "awarded_at": 1602975825,
+      "bounty": {
+        "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": 7800000
+      },
+      "completions": {
+        "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": {
+          "content": "follow your heart",
+          "time": 1602975755,
+          "votes": {
+            "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": true
+          }
+        }
+      },
+      "created_at": 1602975475,
+      "desc": "I don't know what to do.",
+      "head": "Tell me the future",
+      "needed": 1,
+      "voters": [
+        "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6"
+      ]
+    },
+    "l48x174es": {
+      "awarded_at": 1598751845,
+      "bounty": {
+        "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": 1000000,
+        "anon": 500000
+      },
+      "completions": {
+        "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": {
+          "content": "Now my all BTC gone by the guy I first met.",
+          "time": 1598751500,
+          "votes": {
+            "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6": true
+          }
+        }
+      },
+      "created_at": 1598747953,
+      "desc": "Now you're walking giveaway!",
+      "head": "Tattoo your key on forehead!",
+      "needed": 1,
+      "voters": [
+        "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6"
+      ]
+    },
+    "mgb04e3p8": {
+      "awarded_at": 1617881497,
+      "bounty": {
+        "02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4": 3000000
+      },
+      "completions": {
+        "030d59f256c2d73391e46fa8e3834a139a00758907cf8ee0576a6eb2e558ef2892": {
+          "content": "Channel is 8a65c9f3b4d2f897676154d9e8816bc370e41ada1d1672d64ce68149987cd7e8",
+          "time": 1617874311,
+          "votes": {
+            "02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4": true
+          }
+        }
+      },
+      "created_at": 1617763237,
+      "desc": "Open a channel to Spotlight with 2000000 sats capacity\n\n[Node Info]\nhttps://1ml.com/node/02aac548b877279c30f3abbb7301de93096e3b87144fc484dc3409bb0d6bd566b1\n",
+      "head": "Open a channel to Spotlight with 2000000 sats capacity",
+      "needed": 1,
+      "voters": [
+        "02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4"
+      ]
+    },
+    "n42av4qyd1": {
+      "awarded_at": 1610711329,
+      "bounty": {
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 1000000
+      },
+      "completions": {
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": {
+          "content": "award it to me...",
+          "time": 1610711305,
+          "votes": {
+            "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": true
+          }
+        }
+      },
+      "created_at": 1610711158,
+      "desc": "testing this mofo... \nbtw, fiatjaf, you owe me like 50k just accounting for these tests!!",
+      "head": "test task",
+      "needed": 1,
+      "voters": [
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f"
+      ]
+    },
+    "ps1741w9uo": {
+      "awarded_at": 1598131386,
+      "bounty": {
+        "02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423": 1000000,
+        "anon": 19500000
+      },
+      "completions": {
+        "02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423": {
+          "content": "Done beautifully.",
+          "time": 1598131323,
+          "votes": {
+            "02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423": true
+          }
+        }
+      },
+      "created_at": 1598131144,
+      "head": "Sing to me!",
+      "needed": 1,
+      "voters": [
+        "02fbb96808d1a5f08d54aac158a45ae0a01ff4864a615b820b35dd52bb28975423"
+      ]
+    },
+    "ps1pv4xlo3": {
+      "awarded_at": 1610710429,
+      "bounty": {
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 5000
+      },
+      "completions": {
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": {
+          "content": "www",
+          "time": 1610710394,
+          "votes": {
+            "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": true
+          }
+        }
+      },
+      "created_at": 1610648722,
+      "needed": 1,
+      "voters": [
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f"
+      ]
+    },
+    "qg5c4zahf": {
+      "awarded_at": 1606702739,
+      "bounty": {
+        "0374ecd783db94c5c33d8a785966a89e2bf969f85dadffe4ca96c2fab872d2c191": 25500000
+      },
+      "completions": {
+        "0374ecd783db94c5c33d8a785966a89e2bf969f85dadffe4ca96c2fab872d2c191": {
+          "content": "did it",
+          "time": 1606702388,
+          "votes": {
+            "0374ecd783db94c5c33d8a785966a89e2bf969f85dadffe4ca96c2fab872d2c191": true
+          }
+        }
+      },
+      "created_at": 1606702183,
+      "desc": "enjoy!",
+      "head": "eat tacos",
+      "needed": 1,
+      "voters": [
+        "0374ecd783db94c5c33d8a785966a89e2bf969f85dadffe4ca96c2fab872d2c191"
+      ]
+    }
+  },
+  "open": {
+    "1k2774ra2v": {
+      "bounty": {
+        "046042ee8805d94aefc487b5c6ca5c862bf6b7bd9e38793adc2bd561791cda9b14bb506d6038620175b75dd420bc7666e808b8290b47c7e010f5d389f93ecc8a86": 1000,
+        "04768bfb4dc601bc44d93be0f1777127d58eef3247a37d25cf3c9b6c585f4de0afe24cf0afe4af090d841ec5fed3d67a8a4562485f9377c250550221df424338fd": 1000
+      },
+      "created_at": 1608187691,
+      "desc": "Say hi to the world!",
+      "head": "Say hi to the world!",
+      "needed": 1,
+      "voters": [
+        "04768bfb4dc601bc44d93be0f1777127d58eef3247a37d25cf3c9b6c585f4de0afe24cf0afe4af090d841ec5fed3d67a8a4562485f9377c250550221df424338fd"
+      ]
+    },
+    "6w1x4mrke": {
+      "bounty": {
+        "02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4": 3000000
+      },
+      "created_at": 1618107305,
+      "desc": "[Node info] https://1ml.com/node/035b1ff29e8db1ba8f2a4f4f95db239b54069cb949b8cde329418e2a83da4f1b30",
+      "head": "Open a public channel to my node with 2,000,000 sats",
+      "needed": 1,
+      "voters": [
+        "02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4"
+      ]
+    },
+    "9c2cl4a92s": {
+      "bounty": {
+        "046042ee8805d94aefc487b5c6ca5c862bf6b7bd9e38793adc2bd561791cda9b14bb506d6038620175b75dd420bc7666e808b8290b47c7e010f5d389f93ecc8a86": 1000
+      },
+      "created_at": 1608875958,
+      "head": "Sing to me!",
+      "needed": 1,
+      "voters": [
+        "046042ee8805d94aefc487b5c6ca5c862bf6b7bd9e38793adc2bd561791cda9b14bb506d6038620175b75dd420bc7666e808b8290b47c7e010f5d389f93ecc8a86"
+      ]
+    },
+    "_": 0,
+    "ck6h7u0u0000ktz019o6y5kv6": {
+      "bounty": {
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 10000000
+      },
+      "created_at": 1581385059,
+      "desc": "There are too many BIPs, some are implemented, some are old discarded ideas, some are promising proposals for the future, each has its own history and arguments and counter-arguments.\n\nIt would be nice to have a summary of each along with its story, timeline, people involved and so on.\n\nThis effort doesn't have to include all BIPs, but must be good and original work.",
+      "head": "A guide for the Bitcoin BIPs",
+      "needed": 1,
+      "voters": [
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
+      ]
+    },
+    "ck6wdx9uw000q8201df8nmm37": {
+      "bounty": {
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 10000000
+      },
+      "completions": {
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": {
+          "content": "money money money",
+          "time": 1610711064
+        }
+      },
+      "created_at": 1582302281,
+      "desc": "I'm imagining something like a table with a description of each transaction, like \"simple payment\", \"JoinMarket Coinjoin\", \"Lightning HTLC\", \"Blockstream Green deposit\", what kind of wallet/app/protocol produces it, the scripts and other technicalities used, and their average size in bytes and vbytes.",
+      "head": "A comparison of most known kinds of Bitcoin transactions",
+      "needed": 1,
+      "voters": [
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
+      ]
+    },
+    "ck6wdycfs000s8201jn99jxmk": {
+      "bounty": {
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 20000000
+      },
+      "created_at": 1582302331,
+      "head": "Get lnurl-withdraw support merged in Spark Wallet",
+      "needed": 1,
+      "voters": [
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
+      ]
+    },
+    "ck6wdyu6o000u8201f8w98ui3": {
+      "bounty": {
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 30000000,
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 10000000
+      },
+      "created_at": 1582302354,
+      "head": "Get lnurl-pay support merged in Spark Wallet",
+      "needed": 1,
+      "voters": [
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
+      ]
+    },
+    "ck6we3j60000w8201ugjyc1wy": {
+      "bounty": {
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 20000000
+      },
+      "created_at": 1582302573,
+      "desc": "The @etleneum account never said anything, never followed anyone, and then it was suddenly blocked.\n\nIt doesn't have an associated phone number because Twitter didn't force me to use one when creating it, but then it goes there and blocks every account that doesn't have a phone number it seems.\n\nNow I can login to the account, but can't follow anyone or edit details or add a phone number.\n\nI've messaged support multiple times, but never got a response.",
+      "head": "Get the @etleneum account unblocked on Twitter",
+      "needed": 1,
+      "voters": [
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
+      ]
+    },
+    "co49r480ib": {
+      "bounty": {
+        "025b008818c11371ed42b31fd6069523226f88e71628378db88a967881b379a1c6": 5000000
+      },
+      "created_at": 1615035723,
+      "desc": "Timestamp when @matt_odell\ncalls for a CoinJoin + Lightning wallet \n\nhttps://twitter.com/gladstein/status/1368014731890421760",
+      "head": "Timestamp for TFTC podcast episode",
+      "needed": 1,
+      "voters": [
+        "025b008818c11371ed42b31fd6069523226f88e71628378db88a967881b379a1c6"
+      ]
+    },
+    "nsah51pjxq": {
+      "bounty": {
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 5000000,
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 1016000
+      },
+      "completions": {
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": {
+          "content": "testing completion #2",
+          "time": 1610626136
+        }
+      },
+      "created_at": 1596681415,
+      "desc": "A Telegram bot that uses the inline mode to allow people to type \"@satoshiquotebot sorry\" and return search results for all Satoshi oneliners (in the example above it should return the quote that ends with \"If you don't believe me or don't get it, I don't have time to try to convince you, sorry.\").\n\nJust that, a simple bot that can be used to easily spam group chats with wisdom from the genius.",
+      "head": "A Telegram bot for Satoshi quotes",
+      "needed": 1,
+      "voters": [
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
+      ]
+    },
+    "vs8b460ub": {
+      "bounty": {
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 50000000,
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 10000000,
+        "036f6d7b3d3119c75a8a5a3372e9486dd8026eb040e1431094e427ba4a9a315680": 60000000
+      },
+      "created_at": 1614343915,
+      "desc": "Take a look at https://github.com/fiatjaf/nostr, join the group at https://t.me/nostr_protocol.\n\nWrite a special kind of Nostr relay that also implements (part of?) the ActivityPub/LitePub and protocol creates Mastodon/ActivityPub accounts on-the-fly for every Nostr pubkey that publishes to it, such that people on a Mastodon server can follow these accounts without having to know what Nostr is.\n\nThe code must be open-source.",
+      "head": "Write a bridge between Mastodon and Nostr",
+      "needed": 1,
+      "voters": [
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
+      ]
+    },
+    "wo8d4sf6l": {
+      "bounty": {
+        "038d96fd8a930007cfd795175591ef04679da2e3b109104247d52d6fd310232a6e": 9999000
+      },
+      "created_at": 1617028071,
+      "desc": "Create a contract that interacts in some way with mk.js (can be on attack or on game end) and pays satoshis from one player to another.  See: https://twitter.com/pollofeed/status/1376536816082378754",
+      "head": "Create a contract to interact with mk.js",
+      "needed": 1,
+      "voters": [
+        "038d96fd8a930007cfd795175591ef04679da2e3b109104247d52d6fd310232a6e"
+      ]
+    },
+    "xc33v4smoy": {
+      "bounty": {
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f": 10000
+      },
+      "completions": {
+        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": {
+          "content": "Testing submit completion.",
+          "time": 1611518100
+        }
+      },
+      "created_at": 1610970996,
+      "desc": "test",
+      "head": "Testing open offer",
+      "needed": 1,
+      "voters": [
+        "031054164e8d4075e26c2216ad6bebd49cb7dfb371d00ce06551b91542f651111f"
+      ]
+    }
+  }
+}
