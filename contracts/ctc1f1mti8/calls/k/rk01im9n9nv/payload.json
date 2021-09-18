@@ -1,0 +1,5 @@
+{
+  "key": "blixt",
+  "name": "Enable iOS wallet to connect to tor nodes",
+  "description": "In the iOS version of the wallet allow it to connect channels on tor/onion nodes."
+}

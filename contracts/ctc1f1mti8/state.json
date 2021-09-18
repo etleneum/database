@@ -74,6 +74,13 @@
         "name": "Support for LUD-17",
         "opened": 1629220662,
         "status": "finished"
+      },
+      {
+        "description": "In the iOS version of the wallet allow it to connect channels on tor/onion nodes.",
+        "msatoshi": 10051000,
+        "name": "Enable iOS wallet to connect to tor nodes",
+        "opened": 1631941334,
+        "status": "open"
       }
     ],
     "url": "https://blixtwallet.github.io"
