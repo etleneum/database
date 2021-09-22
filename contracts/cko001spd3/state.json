@@ -168,6 +168,13 @@
     }
   },
   "current_ads": {
-    "_": 0
+    "_": 0,
+    "ck6mzl7ls001law01c19toe2h": {
+      "end_time": 1632318035,
+      "image_url": "https://i.imgur.com/kZAANsU.png",
+      "link": "https://i.imgur.com/sQZ6J9U.png",
+      "msatoshi": 1000000,
+      "seconds": 3600
+    }
   }
 }
