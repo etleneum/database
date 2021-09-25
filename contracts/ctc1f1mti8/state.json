@@ -103,6 +103,13 @@
         "name": "Add endpionts to contract JSON API",
         "opened": 1599234882,
         "status": "open"
+      },
+      {
+        "description": "Fix https//features.etleneum.com/\u003ckey\u003e so it shows a qr code",
+        "msatoshi": 4096000,
+        "name": "Fix features pages",
+        "opened": 1632600245,
+        "status": "open"
       }
     ],
     "url": "https://etleneum.com/"
