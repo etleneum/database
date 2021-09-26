@@ -2,7 +2,11 @@
   "1FucKyoU6SKuZQ2wZY6hhuXayiEts9s6jD": {
     "block": 702283,
     "fee_msat": 370000,
+    "reserved": {
+      "to": "03ddf7ced0e05461a0f00fe5da5b44b94431d26712aaf008b57834d575127f03df",
+      "upto": 702337
+    },
     "sat": 115448,
-    "stake": 0
+    "stake": 100000
   }
 }
