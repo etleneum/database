@@ -2,7 +2,7 @@
   "l43km9rww0": {
     "auction_item": "test art",
     "creator_id": "04c44e07c79abc46c3b4880671f8f5106e114449c4461c15bb4800800b697c4ec772f5df9f75a9ffeba506471250da01a5e7ea75ca366fde65fd407f94a0386d43",
-    "current_top_bid": 0,
+    "current_top_bid": 1000,
     "end_datetime": 1632855973,
     "min_step": 1000,
     "top_bider_id": "04c44e07c79abc46c3b4880671f8f5106e114449c4461c15bb4800800b697c4ec772f5df9f75a9ffeba506471250da01a5e7ea75ca366fde65fd407f94a0386d43"
