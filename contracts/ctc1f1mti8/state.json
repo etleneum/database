@@ -61,8 +61,8 @@
       },
       {
         "description": "Receive at user@blixt.com? Wallet automatically empties balance as it goes online using LUD-14.\n\nCan't be used as a custodial wallet, the only way to get the funds is by using balanceCheck so they go to your wallet.\n\nBetter yet if it's open for other wallets to use it too.\n\nOptionally it could have a clause that says \"your funds will be seized if you don't empty them in a month\".",
-        "last_contribution": 1629733896,
-        "msatoshi": 17704000,
+        "last_contribution": 1632732598,
+        "msatoshi": 17804000,
         "name": "Semi-custodial server for Lightning Addresses",
         "opened": 1628860429,
         "status": "open"
