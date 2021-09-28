@@ -78,7 +78,8 @@
       },
       {
         "description": "In the iOS version of the wallet allow it to connect channels on tor/onion nodes.",
-        "msatoshi": 10051000,
+        "last_contribution": 1632791675,
+        "msatoshi": 10551000,
         "name": "Enable iOS wallet to connect to tor nodes",
         "opened": 1631941334,
         "status": "open"
