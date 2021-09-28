@@ -1,4 +1,12 @@
 {
+  "8o44m9lw0b": {
+    "auction_item": "Your id on this auction item\n---\nThe winner will get their Etleneum account id printed in this auction item after it ends.",
+    "creator_id": "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3",
+    "current_top_bid": 7000,
+    "end_datetime": 1634860761,
+    "min_step": 120000,
+    "top_bider_id": "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
+  },
   "l43km9rww0": {
     "auction_item": "test art",
     "creator_id": "04c44e07c79abc46c3b4880671f8f5106e114449c4461c15bb4800800b697c4ec772f5df9f75a9ffeba506471250da01a5e7ea75ca366fde65fd407f94a0386d43",

@@ -1,0 +1,6 @@
+{
+  "auction_duration_days": 23,
+  "min_step": 120,
+  "starting_bid": 7,
+  "auction_item": "Your id on this auction item\n---\nThe winner will get their Etleneum account id printed in this auction item after it ends."
+}
