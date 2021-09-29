@@ -7,6 +7,14 @@
     "min_step": 120000,
     "top_bider_id": "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
   },
+  "bk47m9jwrw": {
+    "auction_item": "Одно сообщение с картинкой в HypeCoinNews, при согласовании с редакцией",
+    "creator_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875",
+    "current_top_bid": 0,
+    "end_datetime": 1633537784,
+    "min_step": 1000000,
+    "top_bider_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875"
+  },
   "l43km9rww0": {
     "auction_item": "test art",
     "creator_id": "04c44e07c79abc46c3b4880671f8f5106e114449c4461c15bb4800800b697c4ec772f5df9f75a9ffeba506471250da01a5e7ea75ca366fde65fd407f94a0386d43",
