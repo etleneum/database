@@ -255,16 +255,17 @@
     "votes": {}
   },
   "ns14b4dlgz": {
-    "balance": 19900000,
+    "balance": 19900001,
     "created": 1627762735,
-    "lastexchange": 1627825505,
+    "lastexchange": 1633015271,
     "liquidity": 3,
-    "nexchanges": 4,
+    "nexchanges": 5,
     "resolvers": [
       "041bd7bb3afce744e8487e0ab45e8cc0a0c1e08dc4ec23b30f0c3afc0eb8bd7f1e1c08ab521ddd8b2f7d39807dbd080306fbe4b2c948191a4fd171ceecc4e28563"
     ],
     "shares": {
       "no": {
+        "038bab12512718aa675b1d08b3207d62c4a642a2e3b3b2cbd7b6aa7ad87f693a8f": 3,
         "041bd7bb3afce744e8487e0ab45e8cc0a0c1e08dc4ec23b30f0c3afc0eb8bd7f1e1c08ab521ddd8b2f7d39807dbd080306fbe4b2c948191a4fd171ceecc4e28563": 100
       },
       "yes": {
