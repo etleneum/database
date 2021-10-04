@@ -13,7 +13,8 @@ function create_auction ()
     current_top_bid = tonumber(call.payload.starting_bid)*1000,
     min_step = tonumber(call.payload.min_step)*1000,    
     top_bider_id = account.id,
-    end_datetime = os.time() + tonumber(call.payload.auction_duration_days) * 86400
+    end_datetime = os.time() + tonumber(call.payload.auction_duration_days) * 86400,
+    state = true
   }
   contract.state[util.cuid()] = auction
 end
@@ -52,5 +53,18 @@ function finish_auction ()
         error("this auction still not finished")
     end
 
+    if not contract.state[auction_id].state then
+        error("auction is already finished")
+    end
+    
     contract.send(contract.state[auction_id].creator_id, contract.state[auction_id].current_top_bid)
+    contract.state[auction_id].state = false
+end
+
+function deposit ()
+  if not account.id then
+    error('must be authenticated!')
+  end
+
+  contract.send(account.id, call.msatoshi)
 end
