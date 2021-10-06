@@ -5,7 +5,8 @@
     "current_top_bid": 619000,
     "end_datetime": 1634860761,
     "min_step": 120000,
-    "top_bider_id": "04ea9c6066686d14b88c63387b573f9728fa3d12ce8a85f3bea71f79a6e6069a6d53a5259857cf54039befe659b68a00c284a8c416b30c2fa1913f426068860f13"
+    "top_bider_id": "04ea9c6066686d14b88c63387b573f9728fa3d12ce8a85f3bea71f79a6e6069a6d53a5259857cf54039befe659b68a00c284a8c416b30c2fa1913f426068860f13",
+    "state": true
   },
   "bk47m9jwrw": {
     "auction_item": "Одно сообщение с картинкой в HypeCoinNews, при согласовании с редакцией",
@@ -13,7 +14,8 @@
     "current_top_bid": 9007000,
     "end_datetime": 1633537784,
     "min_step": 1000000,
-    "top_bider_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875"
+    "top_bider_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875",
+    "state": false
   },
   "i84cm9n2p9": {
     "auction_item": "BITCOIN DAY#1\n---\nФизическая газета из Сальвадора. Стоимость отслеживаемой доставки обсуждается после завершения аукциона с победителем и оплачивается отдельно. Лот https://t.me/c/1446612559/10",
@@ -21,7 +23,8 @@
     "current_top_bid": 30000000,
     "end_datetime": 1633603472,
     "min_step": 999000,
-    "top_bider_id": "020ec25a14a3a43400bbb2ec2d01c1da541e8a76791bc024779334ef04d930ffcc"
+    "top_bider_id": "020ec25a14a3a43400bbb2ec2d01c1da541e8a76791bc024779334ef04d930ffcc",
+    "state": true
   },
   "l43km9rww0": {
     "auction_item": "test art",
@@ -29,6 +32,7 @@
     "current_top_bid": 4000,
     "end_datetime": 1632855973,
     "min_step": 1000,
-    "top_bider_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875"
+    "top_bider_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875",
+    "state": false
   }
 }
