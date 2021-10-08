@@ -1,0 +1,5 @@
+{
+  "key": "blixt",
+  "name": "Add support for LNDConnect (connect to Umbrel)",
+  "description": "Add full Lightning node support in Blixt, allowing users to connect their wallet to popular node solutions using LNDconnect. "
+}
