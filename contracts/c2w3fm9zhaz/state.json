@@ -2,7 +2,7 @@
   "681uy9trwh": {
     "auction_item": "Hash for sale\n---\n000000000000000000070b269ede14b4627de4fb60e1e9a5cf3e95d1dad3988c",
     "creator_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875",
-    "current_top_bid": 0,
+    "current_top_bid": 1000,
     "end_datetime": 1634568236,
     "min_step": 0,
     "state": true,
