@@ -10,6 +10,7 @@ function create_auction ()
   local auction = {
     auction_item = call.payload.auction_item,
     creator_id = account.id,
+    starting_bid = tonumber(call.payload.starting_bid)*1000,
     current_top_bid = tonumber(call.payload.starting_bid)*1000,
     min_step = tonumber(call.payload.min_step)*1000,    
     top_bider_id = account.id,
@@ -31,6 +32,7 @@ function place_bid ()
     end
 
     local new_bid = tonumber(call.msatoshi)
+    starting_bid = contract.state[auction_id].starting_bid
     top_bid = contract.state[auction_id].current_top_bid
     step = contract.state[auction_id].min_step
     
@@ -38,12 +40,17 @@ function place_bid ()
         error("you can only place bid higher then " .. top_bid + step .. " sats.")
     end
     
-    if top_bid ~= 0 then
+    if top_bid ~= starting_bid then
         contract.send(contract.state[auction_id].top_bider_id, top_bid)
     end  
-    
+
     contract.state[auction_id].current_top_bid = new_bid
     contract.state[auction_id].top_bider_id = account.id
+
+    if contract.state[auction_id].end_datetime - os.time() < 180 then
+        contract.state[auction_id].end_datetime = os.time() + 180
+    end
+    
 end
 
 function finish_auction ()
