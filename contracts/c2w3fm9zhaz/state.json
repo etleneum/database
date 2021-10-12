@@ -2,20 +2,20 @@
   "681uy9trwh": {
     "auction_item": "Hash for sale\n---\n000000000000000000070b269ede14b4627de4fb60e1e9a5cf3e95d1dad3988c",
     "creator_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875",
-    "current_top_bid": 11000,
-    "starting_bid": 0,
+    "current_top_bid": 12000,
     "end_datetime": 1634568236,
     "min_step": 0,
+    "starting_bid": 0,
     "state": true,
-    "top_bider_id": "021e1ac297f142fe5f095c0078fb8931473a3e3a534b3d73464a67dc6c8f81388c"
+    "top_bider_id": "027963bebd729f5a10d71e741bdc0bf60369a84f39eb9f4950b784e78ced34ffb2"
   },
   "8o44m9lw0b": {
     "auction_item": "Your id on this auction item\n---\nThe winner will get their Etleneum account id printed in this auction item after it ends.",
     "creator_id": "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3",
     "current_top_bid": 1337000,
-    "starting_bid": 0,
     "end_datetime": 1634860761,
     "min_step": 120000,
+    "starting_bid": 0,
     "state": true,
     "top_bider_id": "0238b4e45990b0e4af4f005009d2bfec2f293a3bfca68156fa3c3b2a8934fa19ec"
   },
@@ -23,9 +23,9 @@
     "auction_item": "Одно сообщение с картинкой в HypeCoinNews, при согласовании с редакцией",
     "creator_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875",
     "current_top_bid": 9007000,
-    "starting_bid": 0,
     "end_datetime": 1633537784,
     "min_step": 1000000,
+    "starting_bid": 0,
     "state": false,
     "top_bider_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875"
   },
@@ -33,9 +33,9 @@
     "auction_item": "BITCOIN DAY#1\n---\nФизическая газета из Сальвадора. Стоимость отслеживаемой доставки обсуждается после завершения аукциона с победителем и оплачивается отдельно. Лот https://t.me/c/1446612559/10",
     "creator_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875",
     "current_top_bid": 30000000,
-    "starting_bid": 0,
     "end_datetime": 1633603472,
     "min_step": 999000,
+    "starting_bid": 0,
     "state": false,
     "top_bider_id": "020ec25a14a3a43400bbb2ec2d01c1da541e8a76791bc024779334ef04d930ffcc"
   },
@@ -43,9 +43,9 @@
     "auction_item": "test art",
     "creator_id": "04c44e07c79abc46c3b4880671f8f5106e114449c4461c15bb4800800b697c4ec772f5df9f75a9ffeba506471250da01a5e7ea75ca366fde65fd407f94a0386d43",
     "current_top_bid": 4000,
-    "starting_bid": 0,
     "end_datetime": 1632855973,
     "min_step": 1000,
+    "starting_bid": 0,
     "state": false,
     "top_bider_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875"
   },
@@ -53,9 +53,9 @@
     "auction_item": "El Salvador Diario. Bitcoin Day #2\n---\nNewspaper from El Salvador. Shipping is not included. Auction telegram chat highly recommended to join: https://t.me/joinchat/akl7RdxuUjE5MTgy",
     "creator_id": "04ea9c6066686d14b88c63387b573f9728fa3d12ce8a85f3bea71f79a6e6069a6d53a5259857cf54039befe659b68a00c284a8c416b30c2fa1913f426068860f13",
     "current_top_bid": 396000000,
-    "starting_bid": 0,
     "end_datetime": 1634038945,
     "min_step": 5000000,
+    "starting_bid": 0,
     "state": false,
     "top_bider_id": "04c1e011a16fee8e04c996abf726907323dba5549ca60a5a39d79f8b170e5f74005143a280a40c159eb097fab799b37a2176029c572f107a057dd8839ceb910ad5"
   }
