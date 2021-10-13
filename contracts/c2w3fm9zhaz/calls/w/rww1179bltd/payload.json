@@ -1,0 +1,6 @@
+{
+  "auction_duration_days": "1",
+  "min_step": "1",
+  "starting_bid": "0",
+  "auction_item": "Auction Token #1"
+}
