@@ -49,6 +49,16 @@
     "state": false,
     "top_bider_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875"
   },
+  "u816795n5y": {
+    "auction_item": "Auction Token #2",
+    "creator_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875",
+    "current_top_bid": 0,
+    "end_datetime": 1634228414,
+    "min_step": 1000,
+    "starting_bid": 0,
+    "state": true,
+    "top_bider_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875"
+  },
   "ww1279h5m5": {
     "auction_item": "Auction Token #1",
     "creator_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875",
