@@ -90,6 +90,13 @@
         "name": "Add support for LNDConnect (connect to Umbrel)",
         "opened": 1633688382,
         "status": "open"
+      },
+      {
+        "description": "Plausibility wallet To allow you to open the wallet to a small wallet value Via a specific password. With governments now be very keen to have you open your phones at border crossings, it would be nice to have the Blixt  wallet open to show that you were holding 0.27 Euros instead of A much bigger number.\n\nThis request could be added to item number seven, which is already asking to change the icon name.",
+        "msatoshi": 7777000,
+        "name": "Deniable Plausibility wallet",
+        "opened": 1634300239,
+        "status": "open"
       }
     ],
     "url": "https://blixtwallet.github.io"
