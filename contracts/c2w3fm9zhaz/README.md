@@ -1,5 +1,7 @@
 Auction for users with Etleneum account.
 
+https://simple-auction.etleneum.com/
+
 Create auction with starting bid (sats), min_step (sats) and auction duration (days).
 
 Place bid higher then (previous bid + minimal step) and until auction not finished.
