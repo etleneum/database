@@ -7,6 +7,9 @@ function create_auction ()
     error('must be authenticated!')
   end
 
+  local new_id = util.cuid()
+  util.print(new_id)
+
   local auction = {
     auction_item = call.payload.auction_item,
     creator_id = account.id,
@@ -17,7 +20,7 @@ function create_auction ()
     end_datetime = os.time() + tonumber(call.payload.auction_duration_days) * 86400,
     state = true
   }
-  contract.state[util.cuid()] = auction
+  contract.state[new_id] = auction
 end
 
 function place_bid ()
