@@ -98,5 +98,15 @@
     "starting_bid": 0,
     "state": false,
     "top_bider_id": "04c1e011a16fee8e04c996abf726907323dba5549ca60a5a39d79f8b170e5f74005143a280a40c159eb097fab799b37a2176029c572f107a057dd8839ceb910ad5"
+  },
+  "zkid92os7": {
+    "auction_item": "Ad post in HypeCoinNews\n---\nOne post with image in Russian Bitcoin channel HypeCoinNews. More than 1200 LN-and-Bitcoin-aware subscribers. The content will be reviewed and the editor has a right to reject publication and return money.\n\nhttps://gcdn.pbrd.co/images/lgVpPMrGNqP6.png",
+    "creator_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875",
+    "current_top_bid": 0,
+    "end_datetime": 1635070034,
+    "min_step": 1000000,
+    "starting_bid": 0,
+    "state": true,
+    "top_bider_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875"
   }
 }
