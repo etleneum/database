@@ -28,8 +28,8 @@
       },
       {
         "description": "Automate sending from Lightning to onchain addresses using chainmarket.etleneum.com!\n\n(Automating the reverse process would also be good, maybe even more interesting for the users that just installed the wallet and don't have satoshis on Lightning, but harder.)",
-        "last_contribution": 1625785744,
-        "msatoshi": 3533000,
+        "last_contribution": 1635265283,
+        "msatoshi": 13533000,
         "name": "Integrate ChainMarket",
         "opened": 1599091735,
         "status": "open"
