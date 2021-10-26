@@ -36,8 +36,8 @@
       },
       {
         "description": "See https://github.com/fiatjaf/lnurl-rfc/blob/luds/14.md",
-        "last_contribution": 1632732376,
-        "msatoshi": 5100000,
+        "last_contribution": 1635261663,
+        "msatoshi": 5250000,
         "name": "Support for LUD-14",
         "opened": 1628289093,
         "status": "open"
