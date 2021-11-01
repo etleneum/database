@@ -97,6 +97,13 @@
         "name": "Deniable Plausibility wallet",
         "opened": 1634300239,
         "status": "open"
+      },
+      {
+        "description": "Actual behavior:\nIn Lightning channels, when a channels is closed there's no much information about it.\nDesired behavior:\nTo have more information about the closure\n- height of block closure started\n- height of block closure will finish\n- height of block funds will be usable in the onchain wallet (fully recovered)\n- clickable tx ID in mempool",
+        "msatoshi": 5000000,
+        "name": "More details for closing channels",
+        "opened": 1635796993,
+        "status": "open"
       }
     ],
     "url": "https://blixtwallet.github.io"

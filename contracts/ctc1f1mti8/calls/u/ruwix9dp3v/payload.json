@@ -1,0 +1,5 @@
+{
+  "key": "blixt",
+  "name": "More details for closing channels",
+  "description": "Actual behavior:\nIn Lightning channels, when a channels is closed there's no much information about it.\nDesired behavior:\nTo have more information about the closure\n- height of block closure started\n- height of block closure will finish\n- height of block funds will be usable in the onchain wallet (fully recovered)\n- clickable tx ID in mempool"
+}
