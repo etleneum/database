@@ -12,6 +12,12 @@
     "msatoshi": 200000,
     "white": "ad81ef30502de4eb8abecc82e482e5ca4185a890d219776780c487cfd4aa6827"
   },
+  "c34041": {
+    "creation": 1635865964,
+    "gameid_hash": "e29e73b6f15837f19bc8d1a4f6c88a3f91ed7e5dff953a025314837d182de9f1",
+    "msatoshi": 100000,
+    "white": "e92c06d89cf59e690562a45c743c0e4c577637babcca02f81c6668f0e78b8c1b"
+  },
   "c369120": {
     "creation": 1607812795,
     "gameid_hash": "2843264958d82706a751a31458d42c5cb86d9320d905c2206cefad2d939d9699",
