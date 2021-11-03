@@ -3,21 +3,27 @@
     "block": 707789,
     "fee_msat": 777000,
     "reserved": {
-      "to": "0404b343b054c7e920f3d2d136ebcb93b58aed0e917ad29a50ad2731e103dd48701f21b28400fa3925270cc948e7e005cf471c6e075005b0ce89baad5b55d53cc5",
-      "upto": 708024
+      "to": "0404b343b054c7e920f3d2d136ebcb93b58aed0e917ad29a50ad2731e103dd48701f21b28400fa3925270cc948e7e005cf471c6e075005b0ce89baad5b55d53cc5"
     },
     "sat": 100000,
-    "stake": 100000
+    "stake": 100000,
+    "waiting": {
+      "last_block_checked": 708022,
+      "txid": "d65ff6206572870b141666e6b60c2ba13e1b4bfa45f220793078f3039b3d6ff4"
+    }
   },
   "1FuckyoUWJKN2F6NNcihyuCpFx5AYWcuXT": {
     "block": 707633,
     "fee_msat": 600000,
     "reserved": {
-      "to": "0404b343b054c7e920f3d2d136ebcb93b58aed0e917ad29a50ad2731e103dd48701f21b28400fa3925270cc948e7e005cf471c6e075005b0ce89baad5b55d53cc5",
-      "upto": 708024
+      "to": "0404b343b054c7e920f3d2d136ebcb93b58aed0e917ad29a50ad2731e103dd48701f21b28400fa3925270cc948e7e005cf471c6e075005b0ce89baad5b55d53cc5"
     },
     "sat": 118009,
-    "stake": 200000
+    "stake": 200000,
+    "waiting": {
+      "last_block_checked": 708022,
+      "txid": "d65ff6206572870b141666e6b60c2ba13e1b4bfa45f220793078f3039b3d6ff4"
+    }
   },
   "bc1qgfhvlaxt7rfgnk6e8x0zxhyqawjh9th3v0wtz6": {
     "block": 703943,
