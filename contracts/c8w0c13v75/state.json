@@ -8,7 +8,7 @@
     "sat": 82878,
     "stake": 100000,
     "waiting": {
-      "last_block_checked": 708578,
+      "last_block_checked": 708581,
       "txid": "82efa9f73eab9063d3bd372f683578cd35d736e4c62ed17b9d11f8f4a147640e"
     }
   },
@@ -21,7 +21,7 @@
     "sat": 211348,
     "stake": 100000,
     "waiting": {
-      "last_block_checked": 708578,
+      "last_block_checked": 708581,
       "txid": "82efa9f73eab9063d3bd372f683578cd35d736e4c62ed17b9d11f8f4a147640e"
     }
   },
