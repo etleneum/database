@@ -1,4 +1,10 @@
 {
+  "1FUckYoUw7itcWPfNmYosfi7sNacYqrs2j": {
+    "block": 708600,
+    "fee_msat": 100000,
+    "sat": 48636,
+    "stake": 0
+  },
   "bc1qgfhvlaxt7rfgnk6e8x0zxhyqawjh9th3v0wtz6": {
     "block": 703943,
     "fee_msat": 5592,
