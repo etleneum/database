@@ -109,6 +109,13 @@
     ],
     "url": "https://blixtwallet.github.io"
   },
+  "dlc": {
+    "logo": "https://cdn4.telesco.pe/file/h_6lBIg6fSkyNNxNMWkd0JLqTishghVtWmScp97iZPKFJmYqe-oSBG7VxWKT4gGwj2tESD7-lGMnm10rVBuvsKHt1BjRUvhvu-EXqA33rim84DRzkQTA6tv93541ihxKhIAQx7nDVW95W69Ho2XgMLQ-gtdRbopVvgYNNQNgGGZq1U5yrVUYoz-c2XVmuxV8QqV4Ovv35ulCRFlFejl5uldrd3XQG1WQ82PvYrIpaGJ-hDo02D99qmmMR-Bd7skVkbzUf9GxgFQXLlERgSxNwvwIIhewb6Bc_dI2w-C0zo-j35OoCPfNWuUH27VtrvXSJvDpLk58qoZ28Wkom4PURw.jpg",
+    "name": "Hype Coin News DLC",
+    "owner": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875",
+    "requests": {},
+    "url": "https://t.me/hypecoinnewsclub"
+  },
   "etleneum": {
     "logo": "https://etleneum.com/static/icon.png",
     "name": "Etleneum",
