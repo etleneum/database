@@ -1,0 +1,5 @@
+{
+  "key": "dlc",
+  "name": "Sport bets with 3 outcomes",
+  "description": "Based on results matched via API:\n1) https://tipsscore.com/\n2) https://www.football-data.org/coverage\n3) https://rapidapi.com/tipsters/api/sportscore1"
+}
