@@ -11,6 +11,12 @@
     "sat": 25,
     "stake": 0
   },
+  "bc1qdkya5wk9m83wnpn95p24zcd95pgmuf0wa9qw3a": {
+    "block": 712379,
+    "fee_msat": 1000,
+    "sat": 24,
+    "stake": 0
+  },
   "bc1qgfhvlaxt7rfgnk6e8x0zxhyqawjh9th3v0wtz6": {
     "block": 703943,
     "fee_msat": 5592,
