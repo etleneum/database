@@ -170,11 +170,11 @@
   "current_ads": {
     "_": 0,
     "ck6mzl7ls001law01c19toe2h": {
-      "end_time": 1638604358,
-      "image_url": "https://blocksat-reader.s3.amazonaws.com/downloads/20211204163920",
+      "end_time": 1638604766,
       "link": "https://spotlight.soy/detail?article_id=wf748j6ym",
       "msatoshi": 100000,
-      "seconds": 360
+      "seconds": 360,
+      "text": "test"
     }
   }
 }
