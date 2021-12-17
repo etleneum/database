@@ -32,7 +32,7 @@
     "sat": 3400,
     "stake": 100000,
     "waiting": {
-      "last_block_checked": 714520,
+      "last_block_checked": 714543,
       "txid": "c99cab7cb00bacca6130ba745d6d922695477d6cf24f2853dea8e8a591db59c3"
     }
   },
@@ -57,7 +57,7 @@
     "sat": 2591,
     "stake": 100000,
     "waiting": {
-      "last_block_checked": 714520,
+      "last_block_checked": 714543,
       "txid": "74c01d16cb5ffee42aca717dd51248ff72f04202c922cf6e58ea1a674656ae17"
     }
   },
