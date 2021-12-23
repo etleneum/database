@@ -168,6 +168,13 @@
     }
   },
   "current_ads": {
-    "_": 0
+    "_": 0,
+    "ck6mzl7ls001law01c19toe2h": {
+      "end_time": 1640354330,
+      "link": "https://www.youtube.com/watch?v=-SXVLTjUDQ4",
+      "msatoshi": 24000000,
+      "seconds": 86400,
+      "text": "Watch this video"
+    }
   }
 }
