@@ -432,6 +432,13 @@
         "name": "Биткоин и личная жизнь",
         "opened": 1639840447,
         "status": "open"
+      },
+      {
+        "description": "",
+        "msatoshi": 1000000,
+        "name": "Дискуссия о 4-х летнем рыночном цикле Биткоина",
+        "opened": 1640550036,
+        "status": "open"
       }
     ],
     "url": "https://t.me/hypecoinnews"
