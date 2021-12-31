@@ -277,40 +277,6 @@
     "terms": "«Зайдут ли россияне в Афганистан для реванша за войну 80-х»  что зайдут в течении 12 ближайших месяцев",
     "votes": {}
   },
-  "rc2t21nras": {
-    "balance": 159000001,
-    "created": 1597979919,
-    "lastexchange": 1628618674,
-    "liquidity": 7,
-    "nexchanges": 60,
-    "resolvers": [
-      "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
-    ],
-    "shares": {
-      "no": {
-        "021478b946e9f18e0e518bb5fec412532b749f44f4f6f5b63187afcf9a65f993a9": 9,
-        "024fa64811faf9fc0ab710f0ac6c049c06e270861d16d60f415f6dd25fae423200": 599,
-        "0253ffc046fb5c96213e65778e44e0db8879e685538fd35809c74056d53a3515b3": 299,
-        "029211df77c10c0527f36f18c945f13a691af2d8e3d5a7b60b252031b67a7cb095": 54,
-        "02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4": 10,
-        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 252,
-        "02e361b653d884016ea0d66f9c05b5980d8a97337cb8c7b34e4620844d017a7b2f": 15,
-        "030cb787aec7a0bc7f01604b8466643d4700273d571b99f45fbc0f4b3e39c25f7b": 212
-      },
-      "yes": {
-        "0238b4e45990b0e4af4f005009d2bfec2f293a3bfca68156fa3c3b2a8934fa19ec": 50,
-        "025b0f616d6468f500ee8db1a9d4bd32a56cb1e0c0393ee9029f1276edfbdca8fc": 11,
-        "0296a945b6abb0ac1e0baf7df708b396bd98305b808b56abdc84414a5ed8e1454d": 3,
-        "02a2241cc08863907c03a5ce9fd68dca1ee054988ad708601dd5c53b21d1101ad0": 1450,
-        "02a5a8c1a449552e7a16f7f61514aaa3bb3afe5df9e4dae2c809bdd0c79816f6d4": 40,
-        "02e361b653d884016ea0d66f9c05b5980d8a97337cb8c7b34e4620844d017a7b2f": 7,
-        "039ccdda2a937de247c121d1d09584f93c0e05ca7d65988301dc77f90fd41c17cb": 15,
-        "03ffff0c47872f3e9a4750250fedacdeab6278c8925b00419ce5a8c4372897c05d": 14
-      }
-    },
-    "terms": "Will the Taproot be active on Bitcoin mainnet before the end of 2021?",
-    "votes": {}
-  },
   "rc4051hjhf": {
     "balance": 1001092,
     "created": 1595960751,
