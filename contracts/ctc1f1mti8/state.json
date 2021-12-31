@@ -589,8 +589,8 @@
       },
       {
         "description": "Обновить русскую локализацию. Целевой сбор 50000 sat.",
-        "last_contribution": 1640968919,
-        "msatoshi": 11000000,
+        "last_contribution": 1640969487,
+        "msatoshi": 51000000,
         "name": "Localization maintenance: русский язык",
         "opened": 1616434976,
         "status": "open"
