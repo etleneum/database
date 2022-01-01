@@ -169,12 +169,12 @@
   },
   "current_ads": {
     "_": 0,
-    "ckakqpzbs001zn5017svr988d": {
-      "end_time": 1640612191,
-      "link": "https://youtu.be/Gbr_Uz_NdZ4",
-      "msatoshi": 10000000,
-      "seconds": 36000,
-      "text": "The best video in 2021"
+    "ck6mzl7ls001law01c19toe2h": {
+      "end_time": 1640998331,
+      "image_url": "https://i.ibb.co/sv3chb0/Screenshot-2022-01-01-09-42-32-03-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "link": "https://lightning-roulette.com",
+      "msatoshi": 100000,
+      "seconds": 360
     }
   }
 }
