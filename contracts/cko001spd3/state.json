@@ -170,11 +170,11 @@
   "current_ads": {
     "_": 0,
     "ck6mzl7ls001law01c19toe2h": {
-      "end_time": 1640998331,
-      "image_url": "https://i.ibb.co/sv3chb0/Screenshot-2022-01-01-09-42-32-03-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
-      "link": "https://lightning-roulette.com",
+      "end_time": 1641004681,
+      "link": "https://bitcoin.cash",
       "msatoshi": 100000,
-      "seconds": 360
+      "seconds": 360,
+      "text": "Buy Bcash"
     }
   }
 }
