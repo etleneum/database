@@ -588,12 +588,13 @@
         "status": "open"
       },
       {
+        "closed": 1641157181,
         "description": "Обновить русскую локализацию. Целевой сбор 50000 sat.",
         "last_contribution": 1640969487,
         "msatoshi": 51000000,
         "name": "Localization maintenance: русский язык",
         "opened": 1616434976,
-        "status": "open"
+        "status": "finished"
       }
     ],
     "url": "https://lntxbot.bigsun.xyz/"
