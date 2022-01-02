@@ -8,14 +8,22 @@
   "1Archive1n2C579dMsAu3iC6tWzuQJz8dN": {
     "block": 713371,
     "fee_msat": 100000,
+    "reserved": {
+      "to": "03ddf7ced0e05461a0f00fe5da5b44b94431d26712aaf008b57834d575127f03df",
+      "upto": 716868
+    },
     "sat": 20330,
-    "stake": 0
+    "stake": 100000
   },
   "1FUckYoUw7itcWPfNmYosfi7sNacYqrs2j": {
     "block": 714944,
     "fee_msat": 555000,
+    "reserved": {
+      "to": "03ddf7ced0e05461a0f00fe5da5b44b94431d26712aaf008b57834d575127f03df",
+      "upto": 716868
+    },
     "sat": 48745,
-    "stake": 100000
+    "stake": 200000
   },
   "1LQGKsm1gtwUmyR6Cih8G9C2JTZ7zZz63p": {
     "block": 713548,
