@@ -23,8 +23,8 @@ function buyticket ()
     error("must pay the ticket price exactly!")
   end
 
-  if contract.state.tickets[tostring(number)] ~= nil then
-    error('ticket already bought by ' .. account.id)
+  if contract.state.tickets[tostring(number)] ~= nil or contract.state.tickets[number] ~= nil then
+    error('ticket already bought')
   end
 
   local current_block, err = http.gettext('https://blockstream.info/api/blocks/tip/height')
@@ -32,7 +32,7 @@ function buyticket ()
     error("couldn't fetch current block: " .. err)
   end
 
-  contract.state.tickets[number] = account.id
+  contract.state.tickets[tostring(number)] = account.id
   contract.state.last_ticket = tonumber(current_block)
   util.print('ticket ' .. number .. ' bought for ' .. account.id .. '!')
 end
