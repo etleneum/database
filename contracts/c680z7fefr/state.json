@@ -1,7 +1,7 @@
 {
   "last_drawing": 717141,
   "last_number_drawn": 2518,
-  "last_ticket": 717435,
+  "last_ticket": 717436,
   "ticket_price_sats": 119,
   "tickets": {
     "0": "0369a50921c7fad5d1cee54a7f4cc050e54c5d6f6b4c675badbdd3e6eee1da81c2",
@@ -30,6 +30,7 @@
     "1989": "023c17109590161d759bd4eaf1204f48fe586f5593abb7b9cdabb7a5add2307a38",
     "1999": "036e1d365d9980683d6d09ad1f0e06dbbdf1effc1f49725f23fe97a1e53b41f267",
     "2": "023c17109590161d759bd4eaf1204f48fe586f5593abb7b9cdabb7a5add2307a38",
+    "2.0": "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3",
     "2001": "02efe1776420150bd06a262bb428a49206fb816309f8d1d87494724db00577e826",
     "2015": "035a9b1e375bf28fdc221cde0e154a7559e3b0acfdcef85ac81c546c644779b8fb",
     "2016": "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3",
