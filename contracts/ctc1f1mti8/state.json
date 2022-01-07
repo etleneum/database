@@ -435,7 +435,8 @@
       },
       {
         "description": "",
-        "msatoshi": 1000000,
+        "last_contribution": 1641587014,
+        "msatoshi": 2000000,
         "name": "Дискуссия о 4-х летнем рыночном цикле Биткоина",
         "opened": 1640550036,
         "status": "open"
