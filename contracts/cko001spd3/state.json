@@ -170,11 +170,11 @@
   "current_ads": {
     "_": 0,
     "ck6mzl7ls001law01c19toe2h": {
-      "end_time": 1642232415,
-      "image_url": "https://cdn.sanity.io/images/w4avejpr/production/a02cdaefadd3e6638082aed7678356115be802a6-400x560.png",
-      "link": "https://scarce.city/auctions/japanese-rare-mega-bundle",
+      "end_time": 1642375685,
+      "link": "https://twitter.com/VitalikButerin/status/1481737970562789376",
       "msatoshi": 100000,
-      "seconds": 360
+      "seconds": 360,
+      "text": "Buy ADA"
     }
   }
 }
