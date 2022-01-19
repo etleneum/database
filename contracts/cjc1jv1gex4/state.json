@@ -283,30 +283,5 @@
     },
     "terms": "Задержат ли Михаила Светова до 31 января 2021 года(включительно)?",
     "votes": {}
-  },
-  "xc9b19aki": {
-    "balance": 32501145,
-    "created": 1595036028,
-    "lastexchange": 1642553462,
-    "liquidity": 9,
-    "nexchanges": 15,
-    "resolvers": [
-      "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
-    ],
-    "shares": {
-      "no": {
-        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 254,
-        "0307cf572422209eb17b342085d31f3a6fce657cbb24340dc60ccf82b743613ca0": 11
-      },
-      "yes": {
-        "02c893fa245d490f21b831190338fe6cebe9e2319adc9bed93b6c103fe754e15af": 100,
-        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 100,
-        "03513d70cd91902fd324412071f6a2f6a225b41f1c1a2ea858dd999f289f6443f9": 100,
-        "03e5d7b497d0a1702cf3b6aa40ab2ad5b96b83bb9fb467117500f9afc4796f58e5": 1,
-        "040bfdd42dab94a9a2b6324d93149c31bb2e76ec32082d5cfd0561d6edbf0cb9a94be641c7ef5767e6795d2369584120bf9e8c1e408a58b5a96f1b018f7bbe8aeb": 24
-      }
-    },
-    "terms": "Will there be a wallet based on rust-lightning with 1000+ Google Play installs before the end of 2021?",
-    "votes": {}
   }
 }
