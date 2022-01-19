@@ -308,26 +308,5 @@
     },
     "terms": "Will there be a wallet based on rust-lightning with 1000+ Google Play installs before the end of 2021?",
     "votes": {}
-  },
-  "yo1v51xbil": {
-    "balance": 2538079,
-    "created": 1595550426,
-    "lastexchange": 1602773359,
-    "liquidity": 3,
-    "nexchanges": 6,
-    "resolvers": [
-      "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
-    ],
-    "shares": {
-      "no": {
-        "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 25
-      },
-      "yes": {
-        "0292e29b0a9e8e1d07e027bb0b0679d0cdbf8351c1f865b49f0df1e6886688b321": 9,
-        "030aac9f176c62adf3c4144cb43590f5198965c3386dc092e4dd827cc0524c668d": 10
-      }
-    },
-    "terms": "Will there be a wallet using photon-lib with 1000+ Google Play installs before the end of 2021?",
-    "votes": {}
   }
 }
