@@ -333,6 +333,12 @@
         "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 10000000,
         "036f6d7b3d3119c75a8a5a3372e9486dd8026eb040e1431094e427ba4a9a315680": 20000000
       },
+      "completions": {
+        "0211068d95d92ec750511bea6709b70258f12fcccd2385d59bd51b9871c5338195": {
+          "content": "I made this",
+          "time": 1643110387
+        }
+      },
       "created_at": 1581385059,
       "desc": "There are too many BIPs, some are implemented, some are old discarded ideas, some are promising proposals for the future, each has its own history and arguments and counter-arguments.\n\nIt would be nice to have a summary of each along with its story, timeline, people involved and so on.\n\nThis effort doesn't have to include all BIPs, but must be good and original work.",
       "head": "A guide for the Bitcoin BIPs",
