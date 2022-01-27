@@ -145,9 +145,9 @@
     "votes": {}
   },
   "c810d97jxi": {
-    "balance": 207945,
+    "balance": 901092,
     "created": 1643295419,
-    "liquidity": 3,
+    "liquidity": 13,
     "nexchanges": 0,
     "resolvers": [
       "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875"
