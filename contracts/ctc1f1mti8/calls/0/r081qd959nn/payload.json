@@ -1,0 +1,5 @@
+{
+  "key": "blixt",
+  "name": "Update Darthcoins SHTF guide \\w amboss SCB restore",
+  "description": "amboss.space recently added support for backing up the SCB file to their servers.\n\nIt should in theory be possible to restore a seed (i.e an Umbrel node) into Blixt Wallet and use the signMessage API from Settings to login to amboss.space in order to retrieve back the SCB file.\n\nThis is a call for Darthcoin to update his guide."
+}
