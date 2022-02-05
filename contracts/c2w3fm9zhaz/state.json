@@ -218,5 +218,15 @@
     "starting_bid": 0,
     "state": false,
     "top_bider_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875"
+  },
+  "zs2hd9pfk4": {
+    "auction_item": "XVIII Century French Revolution 15 Sous Bill\n---\nOriginal bill from 1792 revolutionary times and hyperinflation period. Shipping from EU is not included.\nhttps://telegra.ph/file/ed2407ccc2f001b61ec24.png\nProof-of-story: 15 sous\nhttps://telegra.ph/Proof-of-story-15-sous-02-04\n\nTelegram chat\nhttps://t.me/simple_auction",
+    "creator_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875",
+    "current_top_bid": 50000000,
+    "end_datetime": 1644332041,
+    "min_step": 10000000,
+    "starting_bid": 50000000,
+    "state": true,
+    "top_bider_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875"
   }
 }
