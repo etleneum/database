@@ -66,8 +66,11 @@ function finish_auction ()
     if not contract.state[auction_id].state then
         error("auction is already finished")
     end
+  
+    if contract.state[auction_id].current_top_bid ~= contract.state[auction_id].starting_bid and contract.state[auction_id].creator_id ~= contract.state[auction_id].top_bider_id then
+        contract.send(contract.state[auction_id].creator_id, contract.state[auction_id].current_top_bid)
+    end
     
-    contract.send(contract.state[auction_id].creator_id, contract.state[auction_id].current_top_bid)
     contract.state[auction_id].state = false
 end
 
