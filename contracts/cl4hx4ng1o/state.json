@@ -21,5 +21,11 @@
     "fee": 10,
     "num_of_players": 2,
     "players": {}
+  },
+  "k82qd9dijb": {
+    "balance": 50000,
+    "fee": 1,
+    "num_of_players": 2,
+    "players": {}
   }
 }
