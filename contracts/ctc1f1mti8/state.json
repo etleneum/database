@@ -114,6 +114,13 @@
         "name": "Update Darthcoins SHTF guide \\w amboss SCB restore",
         "opened": 1643805780,
         "status": "finished"
+      },
+      {
+        "description": "Everywhere where there's scanning functionality,  add support for image scanning too.",
+        "msatoshi": 10000000,
+        "name": "Implement support for scanning QR codes",
+        "opened": 1645343198,
+        "status": "open"
       }
     ],
     "url": "https://blixtwallet.github.io"

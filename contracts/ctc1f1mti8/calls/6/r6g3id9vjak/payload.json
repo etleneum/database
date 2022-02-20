@@ -1,0 +1,5 @@
+{
+  "key": "blixt",
+  "name": "Implement support for scanning QR codes",
+  "description": "Everywhere where there's scanning functionality,  add support for image scanning too."
+}
