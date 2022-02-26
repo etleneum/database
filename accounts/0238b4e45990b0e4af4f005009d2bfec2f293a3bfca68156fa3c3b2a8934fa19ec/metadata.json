@@ -1,3 +1,3 @@
 {
-  "balanceNotify": "http://flat6.local:5000/withdraw/notify/etleneum.com?wal=9f2023b4d98b4fac9eb708651ae10cd0"
+  "balanceNotify": "https://lntxbot.com/lnurl/withdraw/notify?service=etleneum.com&user=16073"
 }
