@@ -23,19 +23,6 @@
     "sat": 51688,
     "stake": 100000
   },
-  "bc1qk5dasw32jwqasev5d05nzh0uvg508vfjxp8knz": {
-    "block": 715421,
-    "fee_msat": 5000,
-    "reserved": {
-      "to": "031e32834b26eca1083dde3198d5a949c0f10e29c2615501e9fc31dd321aefb015"
-    },
-    "sat": 4040,
-    "stake": 200000,
-    "waiting": {
-      "last_block_checked": 725725,
-      "txid": "8b9257cbfc2a97fc36203d44aa94e5931eab0ac8bd26ddd4acc420c73a6e1363"
-    }
-  },
   "bc1qwzdj6r57v3788069809hm6upnx84cz3zat6w9s": {
     "block": 716690,
     "fee_msat": 34000,
