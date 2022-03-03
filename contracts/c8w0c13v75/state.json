@@ -24,9 +24,9 @@
     "stake": 0
   },
   "bc1qz5ws3ef88a4r00ce07c20khttzgtn372gdvspv": {
-    "block": 725734,
-    "fee_msat": 18000,
-    "sat": 6663,
+    "block": 725760,
+    "fee_msat": 19000,
+    "sat": 6762,
     "stake": 0
   }
 }
