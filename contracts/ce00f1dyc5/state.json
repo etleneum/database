@@ -5,6 +5,12 @@
       "fee": 500
     }
   },
+  "bc1qgfhvlaxt7rfgnk6e8x0zxhyqawjh9th3v0wtz6": {
+    "50000000": {
+      "amount": 4999900,
+      "fee": 100
+    }
+  },
   "bc1qun96cmjnkn2ld0pw7ye2sehg9krvmp54m869vs": {
     "50000000": {
       "amount": 30904515,
