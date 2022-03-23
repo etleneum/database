@@ -2,6 +2,10 @@
   "deposits": {
     "03ea57606e12ff503f563e3cdcb4bf7e0439ee7a0f9b88a5fd764ff5c8f5e3f439": 100000
   },
-  "loan_requests": {},
+  "loan_requests": {
+    "03ea57606e12ff503f563e3cdcb4bf7e0439ee7a0f9b88a5fd764ff5c8f5e3f439": {
+      "approvals": {}
+    }
+  },
   "outstanding_loans": {}
 }
