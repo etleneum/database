@@ -177,6 +177,21 @@
     "terms": "no",
     "votes": {}
   },
+  "eg2qf9c4to": {
+    "balance": 207945,
+    "created": 1648136815,
+    "liquidity": 3,
+    "nexchanges": 0,
+    "resolvers": [
+      "022c29533ae402559363bcabde71c3fd7bd3d823ccf1783843cbc0e250fbdcde99"
+    ],
+    "shares": {
+      "no": {},
+      "yes": {}
+    },
+    "terms": "Will BTC hit 100k in 2022?",
+    "votes": {}
+  },
   "h415b4ways": {
     "balance": 69315,
     "created": 1606781551,
