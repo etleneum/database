@@ -469,8 +469,8 @@
       },
       {
         "description": "Ответственный @akhavr1:\n\n\u003e Ну, я можу на електрумі gui зробити, але на це грошей ніхто не дасть\n\nhttps://min.sc/\n\nПервая идея: функционал схожий с бэкапом Liquid.\n\n// Liquid-like federated pegin with emergency recovery keys\n\n$federation = 4 of [ pk(A), pk(B), pk(C), pk(D), pk(E) ]; \n$recovery = 2 of [ pk(F), pk(G), pk(I) ];\n$timeout = older(3 months);\n\nlikely@$federation || ($timeout \u0026\u0026 $recovery)",
-        "last_contribution": 1642190562,
-        "msatoshi": 629000000,
+        "last_contribution": 1648590051,
+        "msatoshi": 729000000,
         "name": "Dev: Плагин наследования для Electrum",
         "opened": 1641809659,
         "status": "open"
