@@ -1,0 +1,5 @@
+{
+  "key": "blixt",
+  "name": "Add option to hide balance",
+  "description": "Its an unnecesary security risk to show the balance in such big numbers every time you open the app. You may just want to pay an invoice and you know you have enough funds to do it but you dont want everybody around you knows how many sats you have in your wallet. An option that allows to yo show/hide that info would be great (maybe long press for enable/disable or something like that)"
+}
