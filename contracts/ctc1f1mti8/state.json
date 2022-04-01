@@ -125,7 +125,8 @@
       },
       {
         "description": "add a small red/yellow/green icon to indicate channel status. especially helpful for IOS when channels go inactive when moving blixt wallet into backround and then foreground again.",
-        "msatoshi": 40000000,
+        "last_contribution": 1648816100,
+        "msatoshi": 40100000,
         "name": "add channel status icon in default screen.",
         "opened": 1645343709,
         "status": "open"
