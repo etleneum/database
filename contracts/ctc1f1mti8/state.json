@@ -308,8 +308,8 @@
       },
       {
         "description": "Статья о способах пополнения каналов и \"разгрузки\" узла с выводом сатоши ончейн.",
-        "last_contribution": 1637150558,
-        "msatoshi": 1500000,
+        "last_contribution": 1648800778,
+        "msatoshi": 14500000,
         "name": "Ликвидность в Lightning",
         "opened": 1614777159,
         "status": "open"
