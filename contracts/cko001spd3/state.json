@@ -170,18 +170,11 @@
   "current_ads": {
     "_": 0,
     "ck6mzl7ls001law01c19toe2h": {
-      "end_time": 1648804080,
-      "image_url": "https://api.time.com/wp-content/uploads/2022/03/TIME_Crypto_cover_2550x2550.jpg?w,800,quality,85",
-      "link": "https://time.com/6159859/issue-01-vitalik-buterin-march-2022/",
+      "end_time": 1649024656,
+      "image_url": "https://s3-ap-northeast-1.amazonaws.com/spotlight-s3-001/article/20220320_032937_164774697740320220320_122718.jpg",
+      "link": "https://spotlight.soy/umetan",
       "msatoshi": 100000,
       "seconds": 360
-    },
-    "ckakqpzbs001zn5017svr988d": {
-      "end_time": 1648811339,
-      "link": "https://web.lappsnet.io/",
-      "msatoshi": 10000000,
-      "seconds": 36000,
-      "text": "Lappsnet"
     }
   }
 }
