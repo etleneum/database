@@ -15,10 +15,10 @@
     "block": 730503,
     "fee_msat": 201000,
     "reserved": {
-      "to": "040173126fc1610843ca6be71a4bb77c99790cd46589e497594bd66555ce5318f9e8a5e949a45968d4e3aafc3707346ecbf58ab04b4913f95582d2956135743769",
-      "upto": 730507
+      "to": "04f6a7c0ef2ca79de9f1134b08dc88325abc5d1dda46daa2c852a4a07cb67cec46ad68366708a0071121d9826404c164afd71750838579d9ff2abf5574784133eb",
+      "upto": 730580
     },
     "sat": 109999,
-    "stake": 200000
+    "stake": 300000
   }
 }
