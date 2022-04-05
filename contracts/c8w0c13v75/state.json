@@ -5,41 +5,11 @@
     "sat": 192792,
     "stake": 0
   },
-  "1FucKyoUEhkzVDbei9MSiLNLpQVVkSotok": {
-    "block": 728850,
-    "fee_msat": 435000,
-    "reserved": {
-      "to": "040173126fc1610843ca6be71a4bb77c99790cd46589e497594bd66555ce5318f9e8a5e949a45968d4e3aafc3707346ecbf58ab04b4913f95582d2956135743769",
-      "upto": 730507
-    },
-    "sat": 132084,
-    "stake": 200000
-  },
-  "3FTU9hLCeFNkVuT734233CqutcJz6NCuwk": {
-    "block": 728798,
-    "fee_msat": 300000,
-    "reserved": {
-      "to": "040173126fc1610843ca6be71a4bb77c99790cd46589e497594bd66555ce5318f9e8a5e949a45968d4e3aafc3707346ecbf58ab04b4913f95582d2956135743769",
-      "upto": 730507
-    },
-    "sat": 49700,
-    "stake": 200000
-  },
   "bc1qgfhvlaxt7rfgnk6e8x0zxhyqawjh9th3v0wtz6": {
     "block": 703943,
     "fee_msat": 5592,
     "sat": 51688,
     "stake": 100000
-  },
-  "bc1qwzdj6r57v3788069809hm6upnx84cz3zat6w9s": {
-    "block": 716690,
-    "fee_msat": 34000,
-    "reserved": {
-      "to": "040173126fc1610843ca6be71a4bb77c99790cd46589e497594bd66555ce5318f9e8a5e949a45968d4e3aafc3707346ecbf58ab04b4913f95582d2956135743769",
-      "upto": 730507
-    },
-    "sat": 1000000,
-    "stake": 200000
   },
   "bc1qzpqygs2ctwm6sca47gzk6lwt8uhnnr3wnmpcvs": {
     "block": 730503,
