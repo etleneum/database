@@ -16,6 +16,12 @@
       "0222ca15f08175b175afa14a0e7ef985fa10f88c2f7b32ee18032770170740f9b5"
     ]
   },
+  "8ode9rk1x": {
+    "balance": 100000,
+    "fee": 0,
+    "num_of_players": 2,
+    "players": {}
+  },
   "bc32d93f4h": {
     "balance": 5000,
     "fee": 1,
