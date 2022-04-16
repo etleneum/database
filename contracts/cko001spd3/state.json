@@ -170,11 +170,11 @@
   "current_ads": {
     "_": 0,
     "ck6mzl7ls001law01c19toe2h": {
-      "end_time": 1649116579,
-      "link": "https://dlc.soy",
+      "end_time": 1650128582,
+      "image_url": "https://s3-ap-northeast-1.amazonaws.com/spotlight-s3-001/article/20220416_165510_mceu_20994270111650128109351.png",
+      "link": "https://dlc.soy/",
       "msatoshi": 100000,
-      "seconds": 360,
-      "text": "⚡Binary Option⚡"
+      "seconds": 360
     }
   }
 }
