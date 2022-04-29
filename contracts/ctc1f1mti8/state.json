@@ -482,6 +482,13 @@
         "name": "Dev: Плагин наследования для Electrum",
         "opened": 1641809659,
         "status": "open"
+      },
+      {
+        "description": "",
+        "msatoshi": 1000000,
+        "name": "Спор вокруг софт-форка BIP-119(CTV)",
+        "opened": 1651217089,
+        "status": "open"
       }
     ],
     "url": "https://t.me/hypecoinnews"
