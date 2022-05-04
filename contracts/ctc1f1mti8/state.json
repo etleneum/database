@@ -484,12 +484,13 @@
         "status": "open"
       },
       {
+        "closed": 1651667507,
         "description": "",
         "last_contribution": 1651249561,
         "msatoshi": 33568000,
         "name": "Спор вокруг софт-форка BIP-119(CTV)",
         "opened": 1651217089,
-        "status": "open"
+        "status": "finished"
       }
     ],
     "url": "https://t.me/hypecoinnews"
