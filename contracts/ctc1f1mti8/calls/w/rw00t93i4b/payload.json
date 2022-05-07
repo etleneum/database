@@ -1,0 +1,5 @@
+{
+  "key": "blixt",
+  "name": "Pay on chain addresses with Lightning balance",
+  "description": "Integrate swaps (Boltz) or channel splicing to pay to a on chain balance with your lightning balance. So new users don't get confused why they can't send Sats to an on chain address.\n(Like Phoenix did it for example). Maybe with warning message that you pay more fees for this transaction and an explanation of the difference between on chain and ln."
+}

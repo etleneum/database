@@ -137,6 +137,13 @@
         "name": "Add option to hide balance",
         "opened": 1648727399,
         "status": "open"
+      },
+      {
+        "description": "Integrate swaps (Boltz) or channel splicing to pay to a on chain balance with your lightning balance. So new users don't get confused why they can't send Sats to an on chain address.\n(Like Phoenix did it for example). Maybe with warning message that you pay more fees for this transaction and an explanation of the difference between on chain and ln.",
+        "msatoshi": 1000000,
+        "name": "Pay on chain addresses with Lightning balance",
+        "opened": 1651921994,
+        "status": "open"
       }
     ],
     "url": "https://blixtwallet.github.io"
