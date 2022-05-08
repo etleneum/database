@@ -144,6 +144,13 @@
         "name": "Pay on chain addresses with Lightning balance",
         "opened": 1651921994,
         "status": "open"
+      },
+      {
+        "description": "Integrate seed encrypted channel backups to a blixt run nextcloud server with possibility to switch to a self hosted one. Like phoenix wallet but with the option to use an uncle Jim backup server. \nMany don't have gdrive on their phone (and don't want it). Would also be cool to not have to use an external app for backup and be safe with a simple seed backup.",
+        "msatoshi": 1000000,
+        "name": "Integrate channel backup server",
+        "opened": 1652013036,
+        "status": "open"
       }
     ],
     "url": "https://blixtwallet.github.io"
