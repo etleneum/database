@@ -196,7 +196,7 @@
     "end_datetime": 1652555051,
     "min_step": 50000000,
     "starting_bid": 150000000,
-    "state": true,
+    "state": false,
     "top_bider_id": "032c712b860caeeaf72e2524011efa1ba936e837efac27b1d9afe7eb57ffcd4875"
   },
   "hs1kd9cg7a": {
