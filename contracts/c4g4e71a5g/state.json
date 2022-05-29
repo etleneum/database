@@ -158,6 +158,38 @@
         "04c4d87696a3d2cb9c0cf4b1cd28f6e2c18a83cfe18a20039df0b26e7a5d6d2497af2c18e34be485805671fb6b498ac26922adbbad18744de89de898a78f7f04c6"
       ]
     },
+    "jcwi9rjr9": {
+      "awarded_at": 1653842219,
+      "bounty": {
+        "033f0610fa0548cc5806647f466ceab66570afda7b356672b95494f43b7035d006": 1000000,
+        "03a3d883b18b168960734596b342fcf2cf78aa7b8b312a78625ecb298d9c65a4bb": 11000000,
+        "03af40e00a6eb74df98c8beb70baac40972e1180cd381e88c2f79dace5f6cdfcb1": 1000000
+      },
+      "completions": {
+        "028a0e5cea161f664f925b277387e6f4bfd519545f5bd00562888e87ec9919e152": {
+          "content": "https://spotlight.soy/detail?article_id=lfrg3mzst",
+          "time": 1653741158,
+          "votes": {
+            "03af40e00a6eb74df98c8beb70baac40972e1180cd381e88c2f79dace5f6cdfcb1": true
+          }
+        },
+        "02c7b4ce6c195f3af17b5dac75eff7813e3519dc1c2c8d5e8ed0dd1093bb82cae3": {
+          "content": "https://spotlight.soy/detail?article_id=ncr0rvmeu",
+          "time": 1653812341
+        },
+        "031a2394745e67ac42889cafcc8add06faf077f4b1d350ec49e6e374bf2bbed514": {
+          "content": "lntxbot is great",
+          "time": 1653619791
+        }
+      },
+      "created_at": 1653618045,
+      "desc": "Spotlight.soyでビットコイン関連の記事を投稿してください。文字数指定は特にありません。ビットコインに関する疑問や質問でも大丈夫です。日本のビットコインコミュニティを活発にしていきましょう！",
+      "head": "Spotlight.soyでビットコイン関連の記事を投稿",
+      "needed": 1,
+      "voters": [
+        "03af40e00a6eb74df98c8beb70baac40972e1180cd381e88c2f79dace5f6cdfcb1"
+      ]
+    },
     "l48x174es": {
       "awarded_at": 1598751845,
       "bounty": {
@@ -410,34 +442,6 @@
       "needed": 1,
       "voters": [
         "025b008818c11371ed42b31fd6069523226f88e71628378db88a967881b379a1c6"
-      ]
-    },
-    "jcwi9rjr9": {
-      "bounty": {
-        "033f0610fa0548cc5806647f466ceab66570afda7b356672b95494f43b7035d006": 1000000,
-        "03a3d883b18b168960734596b342fcf2cf78aa7b8b312a78625ecb298d9c65a4bb": 11000000,
-        "03af40e00a6eb74df98c8beb70baac40972e1180cd381e88c2f79dace5f6cdfcb1": 1000000
-      },
-      "completions": {
-        "028a0e5cea161f664f925b277387e6f4bfd519545f5bd00562888e87ec9919e152": {
-          "content": "https://spotlight.soy/detail?article_id=lfrg3mzst",
-          "time": 1653741158
-        },
-        "02c7b4ce6c195f3af17b5dac75eff7813e3519dc1c2c8d5e8ed0dd1093bb82cae3": {
-          "content": "https://spotlight.soy/detail?article_id=ncr0rvmeu",
-          "time": 1653812341
-        },
-        "031a2394745e67ac42889cafcc8add06faf077f4b1d350ec49e6e374bf2bbed514": {
-          "content": "lntxbot is great",
-          "time": 1653619791
-        }
-      },
-      "created_at": 1653618045,
-      "desc": "Spotlight.soyでビットコイン関連の記事を投稿してください。文字数指定は特にありません。ビットコインに関する疑問や質問でも大丈夫です。日本のビットコインコミュニティを活発にしていきましょう！",
-      "head": "Spotlight.soyでビットコイン関連の記事を投稿",
-      "needed": 1,
-      "voters": [
-        "03af40e00a6eb74df98c8beb70baac40972e1180cd381e88c2f79dace5f6cdfcb1"
       ]
     },
     "ns1d9z0ae": {
