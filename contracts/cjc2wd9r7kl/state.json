@@ -4,11 +4,13 @@
     "auction_item": "Russian Warship ... Done! - postmark from Ukraine\n---\nShipping from Ukraine is not included.\nIncluded: Postmark x 6, letter and postcard.\nSeller:@saul_freeberty\nThis is lottery auction! More tickets - more chances. 8 tickets required to be sold to start auction/lottery countdown. \nhttps://i.imgur.com/J6nS5Xk.jpeg\nhttps://i.imgur.com/cg94uxQ.jpeg\nhttps://i.imgur.com/8BUbsY4.jpeg\nhttps://i.imgur.com/wMTdlSE.jpeg",
     "creator_id": "027963bebd729f5a10d71e741bdc0bf60369a84f39eb9f4950b784e78ced34ffb2",
     "end_datetime": 0,
-    "lottery_fund": 0,
+    "lottery_fund": 25000000,
     "started": false,
     "state": true,
     "ticket_price": 25000000,
-    "tickets": {},
+    "tickets": [
+      "023c17109590161d759bd4eaf1204f48fe586f5593abb7b9cdabb7a5add2307a38"
+    ],
     "tickets_to_start": 8,
     "winner_id": ""
   },
