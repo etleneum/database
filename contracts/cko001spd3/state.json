@@ -170,11 +170,11 @@
   "current_ads": {
     "_": 0,
     "ck6mzl7ls001law01c19toe2h": {
-      "end_time": 1654015694,
-      "image_url": "https://s3-ap-northeast-1.amazonaws.com/spotlight-s3-001/article/20220531_163941_mceu_13789685711654015181218.jpg",
-      "link": "https://lostinbitcoin.jp/category/bitcoin/",
+      "end_time": 1654124825,
+      "link": "https://dlc.soy/",
       "msatoshi": 100000,
-      "seconds": 360
+      "seconds": 360,
+      "text": "Binary Option"
     }
   }
 }
