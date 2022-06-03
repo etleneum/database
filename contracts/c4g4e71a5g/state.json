@@ -489,6 +489,18 @@
         "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
       ]
     },
+    "qg2oi9sknr": {
+      "bounty": {
+        "03af40e00a6eb74df98c8beb70baac40972e1180cd381e88c2f79dace5f6cdfcb1": 100000
+      },
+      "created_at": 1654249669,
+      "desc": "なぜビットコインのブロック採掘は10分なのか？ブロック伝搬時間やreorgのインセンティブをなくすために、短すぎず長すぎず、というのが理由と聞いたことはあるが、10分の妥当性を教えてください。",
+      "head": "【質問箱】なぜビットコインのブロック採掘は10分なのか？",
+      "needed": 1,
+      "voters": [
+        "03af40e00a6eb74df98c8beb70baac40972e1180cd381e88c2f79dace5f6cdfcb1"
+      ]
+    },
     "vs8b460ub": {
       "bounty": {
         "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3": 50000000,
