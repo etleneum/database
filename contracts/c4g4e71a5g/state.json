@@ -450,6 +450,12 @@
         "031ebe8bb232c3bfeaf31bea3cb7a4c980611134ca899c9736905f7cad499c297b": 21000000,
         "03b368f744be5990051c4964807bf81014a6b1c3328dc893ed75eaf17d8006f594": 1000000
       },
+      "completions": {
+        "04d441932cc5dd1518abaf8ca4d193034636566a69d51cd8a06b729caacff2bec596a2bd353a2d465a96a28879031e8751e1a65e19bcaddc4dbcfc49cd89cb4135": {
+          "content": "https://docs.google.com/document/d/1nlCsQ9wu_AB9I9K9wrc6Qkp4RIOQiOkIDYRM8r44Wdk/edit ",
+          "time": 1654429939
+        }
+      },
       "created_at": 1654159699,
       "desc": "Translate \"EXECUTIVE SUMMARY\" of the below report (page 2 and the 1st paragraph before WHAT IS BITCOIN? on page 3) \nhttps://fidelityfda.prod.acquia-sites.com/sites/default/files/documents/bitcoin-first.pdf",
       "head": "EN-\u003eJP translation",
