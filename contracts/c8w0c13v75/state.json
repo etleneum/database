@@ -8,19 +8,31 @@
   "37NFX8KWAQbaodUG6pE1hNUH1dXgkpzbyZ": {
     "block": 734892,
     "fee_msat": 34000,
+    "reserved": {
+      "to": "03a48344e9b35e0fe71d44b9a3cfe319f6432d7fd29614ac9c4a4d66653be0ceab",
+      "upto": 739529
+    },
     "sat": 10000,
-    "stake": 0
+    "stake": 100000
   },
   "3FTU9hLCeFNkVuT734233CqutcJz6NCuwk": {
     "block": 736739,
     "fee_msat": 3000000,
+    "reserved": {
+      "to": "03a48344e9b35e0fe71d44b9a3cfe319f6432d7fd29614ac9c4a4d66653be0ceab",
+      "upto": 739529
+    },
     "sat": 97000,
-    "stake": 0
+    "stake": 100000
   },
   "bc1qzpqygs2ctwm6sca47gzk6lwt8uhnnr3wnmpcvs": {
     "block": 730503,
     "fee_msat": 201000,
+    "reserved": {
+      "to": "03a48344e9b35e0fe71d44b9a3cfe319f6432d7fd29614ac9c4a4d66653be0ceab",
+      "upto": 739529
+    },
     "sat": 109999,
-    "stake": 300000
+    "stake": 400000
   }
 }
