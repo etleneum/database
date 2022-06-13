@@ -151,6 +151,13 @@
         "name": "Integrate channel backup server",
         "opened": 1652013036,
         "status": "open"
+      },
+      {
+        "description": "By HCN community",
+        "msatoshi": 1000000,
+        "name": "Russian translation",
+        "opened": 1655150171,
+        "status": "open"
       }
     ],
     "url": "https://blixtwallet.github.io"
