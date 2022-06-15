@@ -154,7 +154,8 @@
       },
       {
         "description": "By HCN community",
-        "msatoshi": 1000000,
+        "last_contribution": 1655305787,
+        "msatoshi": 46798000,
         "name": "Russian translation",
         "opened": 1655150171,
         "status": "open"
