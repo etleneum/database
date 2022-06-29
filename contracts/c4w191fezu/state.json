@@ -56,6 +56,12 @@
     "msatoshi": 1000000,
     "white": "80d39436e7cd2a9bbceeecd1cedae7a6dae942cd81a54e9ee4790a16cc93ca72"
   },
+  "c666692": {
+    "creation": 1656525412,
+    "gameid_hash": "b0b705d8c989347e2f2d03793ac8692d2ca241caaaed8bb6d2ced99900b27cbf",
+    "msatoshi": 100000,
+    "white": "e79b650a8c824a66c10f6166d3af0faad63e1e989ef7cb873ae48ad21d31bd75"
+  },
   "c734014": {
     "black": "331a102254bc32379dacdac3a5c2a6cbeb20609b03e9c174ee24e4797b1bfad2",
     "creation": 1599402132,
