@@ -14,7 +14,7 @@ function buyticket ()
   end
 
   local number = math.floor(tonumber(call.payload.number))
-  local max = 16^3
+  local max = 16^3 - 1
   if type(number) ~= 'number' or number > max or number < 0 then
     error('number must be a number between 0 and ' .. max)
   end
