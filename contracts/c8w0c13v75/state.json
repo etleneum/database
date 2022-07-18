@@ -1,15 +1,1 @@
-{
-  "1A6eLsi6cmm2xKDSGThd8C2kfzDBXD8YTw": {
-    "block": 739589,
-    "fee_msat": 6001,
-    "reserved": {
-      "to": "03a48344e9b35e0fe71d44b9a3cfe319f6432d7fd29614ac9c4a4d66653be0ceab"
-    },
-    "sat": 192792,
-    "stake": 100000,
-    "waiting": {
-      "last_block_checked": 745414,
-      "txid": "bb940fea92ac68d852e661fa43a96e3e3bbef018ce6fe851e714bd05310c47ea"
-    }
-  }
-}
+{}
