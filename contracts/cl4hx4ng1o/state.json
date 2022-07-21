@@ -7,6 +7,12 @@
       "02c9323d02fc164f89c8f688dbfba8aad69a96fa8f6253ba8cce2c6f1546073fa3"
     ]
   },
+  "6gbz99dgq": {
+    "balance": 100000,
+    "fee": 1,
+    "num_of_players": 1,
+    "players": {}
+  },
   "6wnx4h704": {
     "balance": 200000,
     "fee": 100,
